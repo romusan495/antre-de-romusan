@@ -1,0 +1,30 @@
+{
+  "jeu": "House Flipper",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/613100/achievements" },
+    { "titre": "Knoef, guide des trophées (en anglais)", "url": "https://knoef.info/trophy-guides/ps4-guides/house-flipper-trophy-guide/" },
+    { "titre": "GamePretty, succès de l'extension Luxury (en anglais)", "url": "https://gamepretty.com/house-flipper-100-achievement-guide-new-luxury-dlc/" }
+  ],
+  "note": "Jeu sans étapes et sans succès ratable : les commandes se rejouent depuis l'ordinateur du bureau. Les succès de clients demandent que ce client remporte l'enchère sur une maison précise, aménagée à son goût. Les succès Pets_, Farm_ et DineOut_ demandent les extensions correspondantes.",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": true, "chemin": "%USERPROFILE%\\AppData\\LocalLow\\Empyrean\\House Flipper Game\\Profiles\\Profile 1\\*.dat", "note": "Progression en JSON non chiffré (GameProgress.dat, PlayerProgress.dat)." },
+  "sections": [],
+  "succes": {
+    "GameOver": { "conseil": "Vends au moins une fois chaque maison à vendre ; une maison déjà vendue ne se rachète qu'après la 20e vente." },
+    "Perfectionist": { "conseil": "Rejoue depuis l'ordinateur les commandes qui ne sont pas à 100 %." },
+    "DoItASAP": { "conseil": "Après « Perfectionniste », avec les compétences de rapidité au niveau 3 : rejoue la deuxième commande (le garage), nettoie au plus vite et rends la commande vers 60 %.", "aConfirmer": true },
+    "KnockKnock": { "conseil": "Achète la maison du requin de Wall Street (celle de Jack Tarinton) et frappe sa porte d'entrée au marteau de démolition.", "aConfirmer": true },
+    "CarMechanic": { "conseil": "Frappe au marteau de démolition une voiture garée dans une maison achetée." },
+    "Strongman": { "conseil": "Soulève la voiture pendant la commande du garage (2e ou 3e commande)." },
+    "Negotiator": { "conseil": "Maison inspirée de « Maman, j'ai raté l'avion » : nettoyée, réparée et bien meublée, puis négocie au-delà de 50 000 €.", "aConfirmer": true },
+    "JackTarinton": { "conseil": "Il achète la maison dont la porte donne « Toc, toc » : salle de bain refaite, deux canapés, une table basse et un écran ; abats le mur de la cuisine s'il n'est pas premier.", "motsCles": ["Tarinton"], "aConfirmer": true },
+    "ChangChoi": { "conseil": "Maison « qui cache quelque chose » : tout vendre, puis bureau d'angle, lit simple, deux bibliothèques et cinq jouets dans la chambre.", "motsCles": ["Chang Choi"], "aConfirmer": true },
+    "GorgioShanua": { "conseil": "Tout vendre sauf la salle de bain, puis un grand lit et quatre armoires à linge (chambre et dressing).", "motsCles": ["Shanua"], "aConfirmer": true },
+    "VeronicaLiptson": { "conseil": "Maison rose : quatre tableaux d'arbre rose (chambres, garage, escalier), vends les télévisions et les tapis.", "motsCles": ["Liptson"], "aConfirmer": true },
+    "JimmyTraitor": { "conseil": "Ne nettoie pas ; trois télévisions murales (deux au salon, une dans la chambre verte) et vide la salle de bain voisine.", "motsCles": ["Traitor"], "aConfirmer": true },
+    "Panorama": { "conseil": "Extension Luxury : dans la maison sur la falaise, prends la ville en photo avec la tablette." },
+    "IHopeTheresNoCellar": { "conseil": "Extension Luxury : achète une piscine intérieure à la tablette et pose-la au sous-sol ; il faut parfois plusieurs essais.", "aConfirmer": true },
+    "IFixedIt": { "conseil": "Extension Luxury : après la commande du yacht, frappe la barre à l'étage au marteau." },
+    "LuxuryIsAlwaysInStyle": { "conseil": "Extension Luxury : les 12 commandes de Moonrise Bay." }
+  }
+}

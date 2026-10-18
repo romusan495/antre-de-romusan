@@ -1,0 +1,28 @@
+{
+  "jeu": "Gas Station Simulator",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/1149620/achievements" },
+    { "titre": "SteamAH, succès « Impossible! » (en anglais)", "url": "https://steamah.com/gas-station-simulator-how-to-get-the-impossible-achievement/" },
+    { "titre": "TrueAchievements, « Impossible! » (en anglais)", "url": "https://www.trueachievements.com/a642243/impossible-achievement" }
+  ],
+  "note": "Jeu de gestion sans étapes : tout se fait en progressant dans une même partie. Seul « Impossible! » se joue au tout début d'une partie ; si tu l'as raté, recommence une partie neuve pour lui seul. Les succès GSS_TW et GSS_DIC demandent les extensions (île tropicale, cinéma en plein air).",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": true, "chemin": "%LOCALAPPDATA%\\GSS2\\Saved\\SaveGames\\*.sav", "note": "Sauvegardes Unreal Engine 4 (format GVAS, non chiffré et documenté)." },
+  "sections": [],
+  "succes": {
+    "GSS_ACH_71_UNCLE_LOAN_PAID": { "conseil": "Début de partie : débloque la pompe puis ne lance pas les autres tâches, pour que le délai du prêt ne démarre pas. Gagne environ 5 300 $ (crochetage des coffres, mini-golf à moins de 5 coups) et rembourse l'oncle d'un coup. Il arrive que le succès ne tombe pas.", "aConfirmer": true },
+    "GSS_ACH_72_GAME_COMPLETE": { "conseil": "Fin de la campagne : suis les tâches de l'oncle jusqu'au bout." },
+    "GSS_ACH_11_THROW_03": { "conseil": "Lancer de déchet de loin : recule au maximum de la poubelle avant de lancer.", "aConfirmer": true },
+    "GSS_ACH_75_RACE_02_COMPLETE": { "conseil": "Deuxième circuit de voiture radiocommandée, dans la mine ; il se débloque plus tard dans la partie.", "aConfirmer": true },
+    "GSS_ACH_86_RC_01_FAST": { "conseil": "Circuit RC du désert en moins de 1:02 : coupe les virages et évite de toucher les bords.", "aConfirmer": true },
+    "GSS_ACH_79_JACK_OF_ALL_TRADES": { "conseil": "Un même employé au niveau 10 partout : affecte-le tour à tour à chaque poste.", "aConfirmer": true },
+    "GSS_ACH_89_DECORATION_03": { "conseil": "Les décorations s'achètent ou se trouvent autour de la station : fouille les environs.", "aConfirmer": true },
+    "GSS_ACH_70_POPULARITY_10": { "conseil": "Dernier niveau de popularité, bien après la fin de la campagne : continue à jouer et à améliorer la station." },
+    "ACH_FISH": { "conseil": "Succès caché lié à des poissons : à découvrir, aucun guide fiable trouvé.", "aConfirmer": true },
+    "ACH_FEED_GATOR": { "conseil": "Succès caché lié aux égouts : aucun guide fiable trouvé.", "aConfirmer": true },
+    "GSS_TW_ACH_NOTHING_BUT_NET": { "conseil": "Extension île : vise la noix de coco depuis chacun des trois emplacements près du chaudron." },
+    "GSS_TW_ACH_SAVIOR": { "conseil": "Extension île : chasse le requin dès qu'il apparaît, avant qu'il n'attaque quelqu'un." },
+    "GSS_TW_ACH_LUCKY_WEEK": { "conseil": "Extension île : une semaine de jeu sans éruption du volcan ; les offrandes au dieu de l'île semblent l'apaiser.", "aConfirmer": true },
+    "GSS_TW_ACH_GLOBAL_BUSINESSMAN": { "conseil": "Extension île : toutes les améliorations de la station." }
+  }
+}

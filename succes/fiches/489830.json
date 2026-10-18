@@ -1,0 +1,45 @@
+{
+  "jeu": "The Elder Scrolls V: Skyrim Special Edition",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/489830/achievements" },
+    { "titre": "UESP, succès de Skyrim (en anglais)", "url": "https://en.uesp.net/wiki/Skyrim:Achievements" },
+    { "titre": "UESP, format des sauvegardes (en anglais)", "url": "https://en.uesp.net/wiki/Skyrim_Mod:Save_File_Format" }
+  ],
+  "note": "Monde ouvert : les étapes suivent la quête principale, les guildes et les extensions se font à côté, dans n'importe quel ordre. Neuf succès peuvent se rater selon tes choix (Confrérie noire, artefacts daedriques, guerre civile…) : garde une sauvegarde manuelle avant chaque choix. Les mods désactivent les succès, sauf les créations du Club.",
+  "sauvegarde": { "lisible": true, "chemin": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\*.ess", "note": "Format documenté par l'UESP (compressé, non chiffré) ; le nom du fichier donne la zone actuelle." },
+  "sections": [
+    { "id": "debut", "nom": "Début (Helgen)", "motsCles": ["Helgen"] },
+    { "id": "q1", "atteinte": "NEW_ACHIEVEMENT_1_0" },
+    { "id": "q2", "atteinte": "NEW_ACHIEVEMENT_2_0" },
+    { "id": "q3", "atteinte": "NEW_ACHIEVEMENT_3_0", "motsCles": ["Haut-Hrothgar"] },
+    { "id": "q4", "atteinte": "NEW_ACHIEVEMENT_4_0" },
+    { "id": "q5", "atteinte": "NEW_ACHIEVEMENT_5_0" },
+    { "id": "q6", "atteinte": "NEW_ACHIEVEMENT_6_0" },
+    { "id": "q7", "atteinte": "NEW_ACHIEVEMENT_7_0" },
+    { "id": "fin", "nom": "Après la quête principale", "atteinte": "NEW_ACHIEVEMENT_8_0" }
+  ],
+  "succes": {
+    "NEW_ACHIEVEMENT_1_0": { "depuis": "debut", "conseil": "Quête principale, automatique." },
+    "NEW_ACHIEVEMENT_2_0": { "depuis": "q1", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_3_0": { "depuis": "q2", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_4_0": { "depuis": "q3", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_5_0": { "depuis": "q4", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_6_0": { "depuis": "q5", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_7_0": { "depuis": "q6", "conseil": "Quête principale." },
+    "NEW_ACHIEVEMENT_8_0": { "depuis": "q7", "conseil": "Fin de la quête principale.", "motsCles": ["Sovngarde"] },
+    "NEW_ACHIEVEMENT_43_0": { "depuis": "q1", "conseil": "Premier dragon tué, tôt dans la quête principale." },
+    "NEW_ACHIEVEMENT_60_0": { "conseil": "Les dragons légendaires n'apparaissent qu'à haut niveau (vers 78, avec Dawnguard).", "aConfirmer": true },
+    "NEW_ACHIEVEMENT_18_0": { "conseil": "Ratable : si tu choisis de détruire la Confrérie noire (tuer Astrid au lieu de la rejoindre), ses trois succès sont perdus.", "motsCles": ["Astrid"] },
+    "NEW_ACHIEVEMENT_19_0": { "conseil": "Ratable, voir « Mauvaises fréquentations »." },
+    "NEW_ACHIEVEMENT_20_0": { "conseil": "Ratable, voir « Mauvaises fréquentations »." },
+    "NEW_ACHIEVEMENT_16_0": { "conseil": "Ratable si Erikur meurt avant la quête de la Guilde des voleurs qui le concerne ; ne l'attaque pas.", "motsCles": ["Erikur"] },
+    "NEW_ACHIEVEMENT_22_0": { "conseil": "Guerre civile : ratable selon les échanges de forts lors de la trêve de la quête principale ; sauvegarde avant.", "aConfirmer": true },
+    "NEW_ACHIEVEMENT_42_0": { "conseil": "15 artefacts sur 16 possibles, et cinq se perdent selon tes choix dans les quêtes daedriques : sauvegarde avant chaque décision et accepte toujours la récompense du prince." },
+    "NEW_ACHIEVEMENT_41_0": { "conseil": "Un seul artefact daedrique suffit (succès « Influence daedrique », mal nommé dans le schéma français).", "aConfirmer": true },
+    "NEW_ACHIEVEMENT_56_0": { "conseil": "Dawnguard : l'arc n'est plus un objet de quête après « Jugement d'un pair » : utilise son pouvoir aussitôt, avant de risquer de le perdre." },
+    "NEW_ACHIEVEMENT_57_0": { "conseil": "Ratable si tu te guéris deux fois de la lycanthropie : tu ne pourras plus la reprendre." },
+    "NEW_ACHIEVEMENT_72_0": { "conseil": "Dragonborn : ratable si l'un des deux villageois skaals liés au stalhrim meurt avant sa quête ; protège le village.", "aConfirmer": true },
+    "NEW_ACHIEVEMENT_35_0": { "conseil": "1 000 pièces de prime dans chacune des neuf châtelleries en même temps : ne paie aucune amende avant d'avoir fini." },
+    "NEW_ACHIEVEMENT_30_0": { "conseil": "13 pierres dressées à découvrir sur la carte (il suffit de les trouver, pas de les activer).", "aConfirmer": true }
+  }
+}

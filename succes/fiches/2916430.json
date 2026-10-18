@@ -1,0 +1,19 @@
+{
+  "jeu": "Fast Food Simulator",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/2916430/achievements" },
+    { "titre": "KosGames, succès cachés (en anglais)", "url": "https://kosgames.com/fast-food-simulator-how-to-obtain-hidden-achievements-55543/" }
+  ],
+  "note": "Jeu de gestion sans étapes : aucun succès ne se rate. Les plus rares sont les deux boissons à servir « de travers » et les paliers d'argent.",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": false, "note": "Dossier de sauvegarde non trouvé sur le disque (ni AppData ni userdata Steam)." },
+  "sections": [],
+  "succes": {
+    "DRINK_ROULETTE": { "conseil": "Verse un peu de chaque boisson disponible dans un seul gobelet (la quantité ne compte pas), puis sers-le à un client." },
+    "LACTOSE_INTOLERANT": { "conseil": "Remplis une tasse à café uniquement de lait (pichet à mousser), puis sers-la à un client qui veut un café.", "aConfirmer": true },
+    "SPEND_THOUSAND_DOLLARS": { "conseil": "Un seul panier d'au moins 1 000 $ au marché : regroupe tes achats." },
+    "BUSINESS_GROWING": { "conseil": "5 000 $ en poche en même temps : économise avant les gros achats." },
+    "FAMOUS_AND_FABULOUS": { "conseil": "Popularité au maximum : sers vite et juste, sans laisser partir de client mécontent." },
+    "YOU_ARE_FIRED": { "conseil": "Embauche un employé puis licencie-le." }
+  }
+}

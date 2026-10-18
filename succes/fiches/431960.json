@@ -1,0 +1,23 @@
+{
+  "jeu": "Wallpaper Engine",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/431960/achievements" },
+    { "titre": "KosGames, guide des succès (en anglais)", "url": "https://kosgames.com/wallpaper-engine-100-achievements-guide-2021-226/" },
+    { "titre": "Moegirl, Wallpaper Engine (en chinois)", "url": "https://mzh.moegirl.org.cn/Wallpaper_Engine" }
+  ],
+  "note": "Logiciel sans étapes : rien ne se rate. Les succès de publication demandent de mettre un fond d'écran sur le Workshop (visibilité « non répertorié » possible).",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": false, "note": "Non examinée : la progression des succès est gérée par Steam." },
+  "sections": [],
+  "succes": {
+    "KON_CODE": { "conseil": "Réglages, page « À propos » : tape le code Konami (haut haut bas bas gauche droite gauche droite B A) puis Entrée." },
+    "POST_APP_WALLPAPER": { "conseil": "« Créer un fond d'écran » avec un fichier texte renommé en .exe ; le guide conseille de le publier ensuite.", "aConfirmer": true },
+    "POST_WEB_WALLPAPER": { "conseil": "Fichier texte renommé en .html, « Créer un fond d'écran », puis publication sur le Workshop en non répertorié." },
+    "POST_SCENE_WALLPAPER": { "conseil": "Modèle de scène 2D vide, puis publication sur le Workshop en non répertorié." },
+    "POST_VIDEO_WALLPAPER": { "conseil": "N'importe quel .mp4 via « Créer un fond d'écran », puis publication en non répertorié." },
+    "PEST": { "conseil": "Fichier vide renommé en .mp4, « Créer un fond d'écran », puis valide plusieurs fois les messages d'erreur." },
+    "SCREENSHOT_WITH_WORKSHOP_WALLPAPER": { "conseil": "Fond du Workshop affiché, clic sur l'icône de Wallpaper Engine dans la barre des tâches, « Prendre une capture »." },
+    "FAVORITE_100_WALLPAPERS": { "conseil": "50 favoris suffisent : clique sur le cœur de 50 fonds du Workshop, inutile de les télécharger." },
+    "SUBSCRIBE_100_WALLPAPERS": { "conseil": "Abonne-toi, laisse le fond se charger et s'appliquer, puis désabonne-toi : 100 fois en tout." }
+  }
+}
