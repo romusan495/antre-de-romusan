@@ -1,0 +1,29 @@
+{
+  "jeu": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+  "sources": [
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/2552430/achievements" },
+    { "titre": "Discussions Steam sur les succès (en anglais)", "url": "https://steamcommunity.com/app/2552430/discussions/0/4515505663138678072" },
+    { "titre": "TrueAchievements, succès de la compilation (en anglais)", "url": "https://www.trueachievements.com/a293010/unchanging-armor-achievement" }
+  ],
+  "note": "Quatre jeux dans une compilation (Final Mix, Re:Chain of Memories, KINGDOM HEARTS II FINAL MIX, Birth by Sleep FINAL MIX), joués dans n'importe quel ordre : pas d'étapes. Les succès à surveiller sont ceux qui demandent une partie entière sous condition (sans Continuer, sans changer d'équipement, en moins de 15 h, sans fuir, difficulté).",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": false, "chemin": "%USERPROFILE%\\Documents\\My Games\\KINGDOM HEARTS HD 1.5+2.5 ReMIX\\Steam\\<compte>", "note": "Sauvegardes dans des fichiers .png propres au jeu ; format non examiné en détail." },
+  "sections": [],
+  "succes": {
+    "ACH_004": { "conseil": "Final Mix : toute la partie sans changer d'équipement (ni armes, ni accessoires). Partie à part conseillée." },
+    "ACH_005": { "conseil": "Final Mix : ne jamais choisir Continuer après une défaite ; recharge une sauvegarde à la place." },
+    "ACH_006": { "conseil": "Final Mix : finir en moins de 15 h de jeu (compteur de la sauvegarde). Partie rapide à part." },
+    "ACH_001": { "conseil": "Final Mix en mode difficile : peut se combiner avec les parties ci-dessus." },
+    "ACH_058": { "conseil": "Re:Chain of Memories : ne jamais choisir Continuer après une défaite." },
+    "ACH_090": { "conseil": "Re:Chain of Memories : ne jamais fuir un combat de toute la partie." },
+    "ACH_056": { "conseil": "Re:Chain of Memories : partie de Sora en mode expert." },
+    "ACH_057": { "conseil": "Re:Chain of Memories : partie de Riku en mode expert." },
+    "ACH_103": { "conseil": "KINGDOM HEARTS II : partie entière en mode Maître." },
+    "ACH_138": { "conseil": "KINGDOM HEARTS II : des coffres du prologue de Roxas comptent peut-être et ne se rouvrent plus : ouvre-les tous avant de quitter ce prologue.", "aConfirmer": true },
+    "ACH_139": { "conseil": "KINGDOM HEARTS II : pièces de puzzle dans les coffres ; même prudence avec le prologue de Roxas.", "aConfirmer": true },
+    "ACH_141": { "conseil": "KINGDOM HEARTS II : toutes les missions du carnet, dont les missions avancées d'après-jeu.", "aConfirmer": true },
+    "ACH_153": { "conseil": "Birth by Sleep : finir en Critique avec Terra, Ventus et Aqua." },
+    "ACH_154": { "conseil": "Birth by Sleep : épisode secret débloqué après l'épisode final, avec les conditions de collection demandées par le jeu.", "aConfirmer": true },
+    "ACH_165": { "conseil": "Birth by Sleep : stickers dans chaque monde, pour chacun des trois personnages.", "aConfirmer": true }
+  }
+}

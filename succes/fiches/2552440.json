@@ -1,0 +1,40 @@
+{
+  "jeu": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+  "sources": [
+    { "titre": "RPG Site, objectifs et garde-robe de 0.2 (en anglais)", "url": "https://www.rpgsite.net/feature/5225-kingdom-hearts-2-8-guide-every-objective-and-wardrobe-gear-unlock-in-kh-0-2" },
+    { "titre": "RPG Site, reliques du zodiaque de 0.2 (en anglais)", "url": "https://www.rpgsite.net/feature/5227-kingdom-hearts-2-8-guide-how-to-get-all-the-zodiac-relics-and-unlock-the-0-2-s-secret-boss-rush" },
+    { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/2552440/achievements" }
+  ],
+  "note": "Deux jeux : les étapes suivent Dream Drop Distance (mondes dans l'ordre) ; les succès de 0.2 Birth by Sleep sont montrés à part. Rien ne se rate : coffres, objectifs et portails secrets se font après la fin (et en nouvelle partie+ pour 0.2). Seuls « Invaincue » et « Joueur d'exception » demandent une partie entière.",
+  "sauvegarde": { "lisible": false, "chemin": "%USERPROFILE%\\Documents\\My Games\\KINGDOM HEARTS HD 2.8 Final Chapter Prologue\\Steam\\<compte>", "note": "Fichiers de sauvegarde au format propre du jeu, non documenté : position déduite des succès." },
+  "sections": [
+    { "id": "traverse", "nom": "Dream Drop Distance : Ville de Traverse" },
+    { "id": "cloches", "nom": "Cité des Cloches", "atteinte": "ACH_30" },
+    { "id": "grille", "nom": "La Grille", "atteinte": "ACH_31" },
+    { "id": "paradis", "nom": "Paradis des Garnements", "atteinte": "ACH_32" },
+    { "id": "traverse2", "nom": "Ville de Traverse (retour)", "atteinte": "ACH_33" },
+    { "id": "mousquetaires", "nom": "Pays des Mousquetaires", "atteinte": "ACH_34" },
+    { "id": "symphonie", "nom": "Symphonie du Sorcier", "atteinte": "ACH_35" },
+    { "id": "illusiopolis", "nom": "Illusiopolis", "atteinte": "ACH_36" },
+    { "id": "fin", "nom": "Après l'histoire de Dream Drop Distance", "atteinte": "ACH_37" }
+  ],
+  "succes": {
+    "ACH_29": { "depuis": "traverse", "conseil": "Prologue de Dream Drop Distance, automatique." },
+    "ACH_30": { "depuis": "traverse", "conseil": "Histoire." },
+    "ACH_31": { "depuis": "cloches", "conseil": "Histoire." },
+    "ACH_32": { "depuis": "grille", "conseil": "Histoire." },
+    "ACH_33": { "depuis": "paradis", "conseil": "Histoire." },
+    "ACH_34": { "depuis": "traverse2", "conseil": "Histoire." },
+    "ACH_35": { "depuis": "mousquetaires", "conseil": "Histoire." },
+    "ACH_36": { "depuis": "symphonie", "conseil": "Histoire." },
+    "ACH_37": { "depuis": "illusiopolis", "conseil": "Fin de l'histoire de Dream Drop Distance." },
+    "ACH_61": { "depuis": "traverse", "conseil": "Portails spéciaux : certains demandent des objets ou des capacités obtenus plus tard ; plus simple après la fin.", "aConfirmer": true },
+    "ACH_69": { "depuis": "fin", "conseil": "Portails secrets : après la fin de l'histoire.", "aConfirmer": true },
+    "ACH_68": { "conseil": "Objectifs bonus des portails d'accès : rejouables, reviens avec un niveau plus élevé." },
+    "ACH_38": { "conseil": "Flashbacks déclenchés au fil des mondes ; ceux qui manquent se revoient après la fin.", "aConfirmer": true },
+    "ACH_06": { "conseil": "0.2 : une partie des coffres n'apparaît qu'après la fin, en nouvelle partie+ (reliques du zodiaque)." },
+    "ACH_07": { "conseil": "0.2 : tous les objectifs, dont ceux qui demandent la nouvelle partie+." },
+    "ACH_08": { "conseil": "0.2 : histoire entière sans jamais réessayer ni continuer après une défaite. Sauvegarde souvent et recharge plutôt que de réessayer." },
+    "ACH_11": { "conseil": "Une partie entière en Expert ou Critique ; le jeu concerné (0.2 ou Dream Drop Distance) reste à vérifier.", "aConfirmer": true }
+  }
+}
