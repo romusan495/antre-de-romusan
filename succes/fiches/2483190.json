@@ -1,0 +1,53 @@
+{
+  "jeu": "Forza Horizon 6",
+  "sources": [
+    { "titre": "PowerPyx, guide des succès (en anglais)", "url": "https://www.powerpyx.com/forza-horizon-6-achievement-guide-roadmap" },
+    { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/2483190/achievements" }
+  ],
+  "note": "Aucun succès ratable et la difficulté ne compte pas (conduite automatique et difficulté minimale autorisées). Les étapes suivent les bracelets du festival. Seuls la sélection du festival (saison hebdomadaire) et Horizon Play demandent du jeu en ligne sur la durée.",
+  "sauvegarde": { "lisible": false, "chemin": "%LOCALAPPDATA%\\ForzaHorizon6 (réglages et cache seulement)", "note": "La progression n'est pas dans un fichier local lisible : position déduite des succès des bracelets." },
+  "sections": [
+    { "id": "debut", "nom": "Arrivée au Japon" },
+    { "id": "qualifs", "nom": "Après le premier acte", "atteinte": "ACHIEVEMENT_56" },
+    { "id": "jaune", "nom": "Bracelet jaune", "atteinte": "ACHIEVEMENT_1" },
+    { "id": "vert", "nom": "Bracelet vert", "atteinte": "ACHIEVEMENT_5" },
+    { "id": "bleu", "nom": "Bracelet bleu", "atteinte": "ACHIEVEMENT_6" },
+    { "id": "rose", "nom": "Bracelet rose", "atteinte": "ACHIEVEMENT_22" },
+    { "id": "orange", "nom": "Bracelet orange", "atteinte": "ACHIEVEMENT_23" },
+    { "id": "violet", "nom": "Bracelet violet", "atteinte": "ACHIEVEMENT_42" },
+    { "id": "or", "nom": "Bracelet or", "atteinte": "ACHIEVEMENT_43" }
+  ],
+  "succes": {
+    "ACHIEVEMENT_56": { "depuis": "debut", "conseil": "Histoire, automatique." },
+    "ACHIEVEMENT_57": { "depuis": "debut", "conseil": "Histoire, automatique." },
+    "ACHIEVEMENT_1": { "depuis": "qualifs", "conseil": "Histoire, automatique." },
+    "ACHIEVEMENT_5": { "depuis": "jaune", "conseil": "Points de bracelet : courses du festival." },
+    "ACHIEVEMENT_6": { "depuis": "vert" },
+    "ACHIEVEMENT_22": { "depuis": "bleu" },
+    "ACHIEVEMENT_23": { "depuis": "rose" },
+    "ACHIEVEMENT_42": { "depuis": "orange" },
+    "ACHIEVEMENT_43": { "depuis": "violet" },
+    "ACHIEVEMENT_15": { "depuis": "jaune", "conseil": "La maison apparaît sur la carte après le tampon jaune (10 000 crédits).", "aConfirmer": true },
+    "ACHIEVEMENT_28": { "depuis": "violet", "conseil": "Tous les coups de pub d'Ohtani s'ouvrent au bracelet violet ; pas besoin de 3 étoiles partout." },
+    "ACHIEVEMENT_37": { "depuis": "violet", "conseil": "Saut d'au moins 243,8 m pour une étoile." },
+    "ACHIEVEMENT_38": { "conseil": "Achète le prototype (250 000 crédits) puis gare-le dans un rassemblement auto avec l'invite à l'écran." },
+    "ACHIEVEMENT_29": { "conseil": "Les 5 affrontements apparaissent sur la carte quand tu passes à proximité." },
+    "ACHIEVEMENT_47": { "conseil": "Garde les voitures bonus et les objets à collectionner pour après avoir révélé la carte : le voyage rapide va plus vite." },
+    "ACHIEVEMENT_48": { "conseil": "Roule sur toutes les routes ; à faire avant les objets à collectionner." },
+    "ACHIEVEMENT_52": { "conseil": "Plus simple une fois la carte révélée." },
+    "ACHIEVEMENT_53": { "conseil": "Plus simple une fois la carte révélée." },
+    "ACHIEVEMENT_46": { "conseil": "Niveau 9 de la livraison de repas à Tokyo : vise 3 étoiles par livraison. La conduite automatique marche pour les livraisons au chrono, pas pour celles de dérapage ou de score.", "aConfirmer": true },
+    "ACHIEVEMENT_55": { "conseil": "3 étoiles aux 27 épreuves d'histoire. Conduis toi-même les zones de vitesse et les épreuves de score ; le retour en arrière aide." },
+    "ACHIEVEMENT_54": { "conseil": "Difficulté minimale et conduite automatique si besoin." },
+    "ACHIEVEMENT_27": { "conseil": "33 des 125 activités de Tokyo : vient en général avec les objets à collectionner." },
+    "ACHIEVEMENT_18": { "conseil": "S'ouvre avec la progression de l'histoire.", "aConfirmer": true },
+    "ACHIEVEMENT_33": { "conseil": "S'ouvre avec la progression de l'histoire.", "aConfirmer": true },
+    "ACHIEVEMENT_40": { "conseil": "En ligne, limité dans le temps : tous les objectifs d'une même saison hebdomadaire. Fais-les dès le début de la semaine." },
+    "ACHIEVEMENT_51": { "conseil": "En ligne : premier palier de l'historique de la sélection (500 points), environ 12 semaines de saisons." },
+    "ACHIEVEMENT_19": { "conseil": "En ligne : seules les courses en ligne rapportent de l'expérience Horizon Play." },
+    "ACHIEVEMENT_50": { "conseil": "En ligne, le plus long du jeu. Un correctif aurait réduit l'expérience demandée.", "aConfirmer": true },
+    "ACHIEVEMENT_36": { "conseil": "En ligne, Horizon Play : participer à une course suffit, pas besoin de gagner." },
+    "ACHIEVEMENT_13": { "conseil": "En ligne, avec un vrai joueur : figure en même temps que lui (dérapage, frôlement)." },
+    "ACHIEVEMENT_30": { "conseil": "En ligne." }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "jeu": "Palworld",
+  "sansEtapes": true,
+  "sources": [
+    { "titre": "Palpikt, guide des succès 1.0 (en anglais)", "url": "https://palpikt.com/guides/achievements-guide/" },
+    { "titre": "TrueAchievements, succès de la mise à jour 1.0 (en anglais)", "url": "https://www.trueachievements.com/game/Palworld/dlc/1-0-Update" },
+    { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/1623730/achievements" }
+  ],
+  "note": "Aucun succès ratable connu : les boss de tour se refont, aussi en mode difficile. Le bogue d'inventaire des statues est corrigé depuis la version 1.0.2. Un monde personnalisé (réglages faciles) est autorisé pour les succès.",
+  "sauvegarde": { "lisible": true, "chemin": "%LOCALAPPDATA%\\Pal\\Saved\\SaveGames\\<id Steam>\\<monde>\\Level.sav", "note": "Format Unreal (GVAS) compressé, documenté par des outils communautaires (palworld-save-tools, Pal Editor déjà utilisé ici). Pas lu par le traqueur pour l'instant." },
+  "sections": [],
+  "succes": {
+    "Pal_Achievement_28": { "conseil": "6 des 8 boss de tour en mode difficile, au choix." },
+    "Pal_Achievement_74": { "conseil": "Après le boss de tour du Paradis Déchu : autel vers les Terres astrales, puis capture de Panthalus.", "aConfirmer": true },
+    "Pal_Achievement_75": { "conseil": "Boss final, après l'entrée dans l'Arbre-Monde." },
+    "Pal_Achievement_22": { "conseil": "Les notes sont propres à chaque personnage : un ami ne peut pas les partager." },
+    "Pal_Achievement_34": { "conseil": "100 statues de Lifmunk (les anciens guides qui parlent de 255 ou 300 sont dépassés)." },
+    "Pal_Achievement_58": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_59": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_60": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_61": { "conseil": "Région de la montagne enneigée ; 30 statues, 20 suffisent." },
+    "Pal_Achievement_62": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_63": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_64": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_65": { "conseil": "30 statues par région, 20 suffisent." },
+    "Pal_Achievement_71": { "conseil": "Adversaires niveau 80 en 2 minutes, sans ajustement à ton niveau : monte tes Pals au maximum avant. Les Pals K.O. reviennent et les munitions sont rendues après le match." },
+    "Pal_Achievement_50": { "conseil": "Rejoue les matchs du rang Maître pour financer ton équipement." }
+  }
+}
