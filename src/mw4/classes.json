@@ -947,6 +947,150 @@
    "rang": 1,
    "lien": "https://wzstats.gg/fr/best-loadouts/50-gs-mw4",
    "builds": []
+  },
+  {
+   "id": "oden-mw4",
+   "nom": "Oden",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "D",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
+   "builds": []
+  },
+  {
+   "id": "axion-mw4",
+   "nom": "Axion",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "D",
+   "rang": 3,
+   "lien": "https://wzstats.gg/fr/best-loadouts/axion-mw4",
+   "builds": []
+  },
+  {
+   "id": "cronen-squall-mw4",
+   "nom": "Cronen Squall",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "D",
+   "rang": 4,
+   "lien": "https://wzstats.gg/fr/best-loadouts/cronen-squall-mw4",
+   "builds": []
+  },
+  {
+   "id": "vel-46-mw4",
+   "nom": "VEL 46",
+   "cat": "SMG",
+   "tier": "D",
+   "rang": 5,
+   "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
+   "builds": []
+  },
+  {
+   "id": "wz55-striga-mw4",
+   "nom": "Wz.55 Striga",
+   "cat": "SMG",
+   "tier": "D",
+   "rang": 6,
+   "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
+   "builds": []
+  },
+  {
+   "id": "warlord-mw4",
+   "nom": "Warlord",
+   "cat": "SHOTGUN",
+   "tier": "D",
+   "rang": 7,
+   "lien": "https://wzstats.gg/fr/best-loadouts/warlord-mw4",
+   "builds": []
+  },
+  {
+   "id": "apoc-338-mw4",
+   "nom": "APOC-338",
+   "cat": "LMG",
+   "tier": "D",
+   "rang": 8,
+   "lien": "https://wzstats.gg/fr/best-loadouts/apoc-338-mw4",
+   "builds": []
+  },
+  {
+   "id": "mosin-nagant-mw4",
+   "nom": "Mosin-Nagant",
+   "cat": "MARKSMAN_RIFLE",
+   "tier": "D",
+   "rang": 9,
+   "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
+   "builds": []
+  },
+  {
+   "id": "astaroth-57-mw4",
+   "nom": "Astaroth .57",
+   "cat": "SNIPER_RIFLE",
+   "tier": "D",
+   "rang": 10,
+   "lien": "https://wzstats.gg/fr/best-loadouts/astaroth-57-mw4",
+   "builds": []
+  },
+  {
+   "id": "sang-9mm-mw4",
+   "nom": "SANG 9mm",
+   "cat": "PISTOL",
+   "tier": "D",
+   "rang": 11,
+   "lien": "https://wzstats.gg/fr/best-loadouts/sang-9mm-mw4",
+   "builds": []
+  },
+  {
+   "id": "mojave-357-mw4",
+   "nom": "Mojave .357",
+   "cat": "PISTOL",
+   "tier": "D",
+   "rang": 12,
+   "lien": "https://wzstats.gg/fr/best-loadouts/mojave-357-mw4",
+   "builds": []
+  },
+  {
+   "id": "pila-mw4",
+   "nom": "PILA",
+   "cat": "LAUNCHER",
+   "tier": "D",
+   "rang": 13,
+   "lien": "https://wzstats.gg/fr/best-loadouts/pila-mw4",
+   "builds": []
+  },
+  {
+   "id": "rpg-8-mw4",
+   "nom": "RPG-8",
+   "cat": "LAUNCHER",
+   "tier": "D",
+   "rang": 14,
+   "lien": "https://wzstats.gg/fr/best-loadouts/rpg-8-mw4",
+   "builds": []
+  },
+  {
+   "id": "jokr-mw4",
+   "nom": "JOKR",
+   "cat": "LAUNCHER",
+   "tier": "D",
+   "rang": 15,
+   "lien": "https://wzstats.gg/fr/best-loadouts/jokr-mw4",
+   "builds": []
+  },
+  {
+   "id": "pm-40-anvil-mw4",
+   "nom": "PM-40 Anvil",
+   "cat": "LAUNCHER",
+   "tier": "D",
+   "rang": 16,
+   "lien": "https://wzstats.gg/fr/best-loadouts/pm-40-anvil-mw4",
+   "builds": []
+  },
+  {
+   "id": "fss-carbon-edge-1095-mw4",
+   "nom": "FSS Carbon Edge 1095",
+   "cat": "MELEE",
+   "tier": "D",
+   "rang": 17,
+   "lien": "https://wzstats.gg/fr/best-loadouts/fss-carbon-edge-1095-mw4",
+   "builds": []
   }
  ]
 }
