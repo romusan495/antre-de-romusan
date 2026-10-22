@@ -1,6 +1,6 @@
 {
  "source": "https://wzstats.gg/fr/mw4/meta",
- "maj": "2026-09-11",
+ "maj": "2026-10-22",
  "armes": [
   {
    "id": "m4-mw4",
@@ -492,11 +492,82 @@
    ]
   },
   {
+   "id": "vel-46-mw4",
+   "nom": "VEL 46",
+   "cat": "SMG",
+   "tier": "A",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS CRACKDOWN",
+       "niv": 0
+      },
+      {
+       "slot": "barrel",
+       "nom": "VB-46 SERIES 11",
+       "niv": 0
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "LM COMBAT GRIP",
+       "niv": 0
+      },
+      {
+       "slot": "stock",
+       "nom": "VEL 46 EXTENDED",
+       "niv": 0
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 0
+      }
+     ]
+    },
+    {
+     "style": "APEX",
+     "apex": "VEL 46 SNAP",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "212 LC40 COMP",
+       "niv": 0
+      },
+      {
+       "slot": "barrel",
+       "nom": "VB-46 SERIES 11",
+       "niv": 0
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS FIRELINE GRIP",
+       "niv": 0
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "LM COMBAT GRIP",
+       "niv": 0
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "ppsh-41-mw4",
    "nom": "PPSH-41",
    "cat": "SMG",
    "tier": "A",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/ppsh-41-mw4",
    "builds": [
     {
@@ -566,7 +637,7 @@
    "nom": "REZI 12",
    "cat": "SHOTGUN",
    "tier": "A",
-   "rang": 3,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/rezi-12-mw4",
    "builds": [
     {
@@ -616,7 +687,7 @@
    "nom": "MAR-9",
    "cat": "MARKSMAN_RIFLE",
    "tier": "A",
-   "rang": 4,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/mar-9-mw4",
    "builds": [
     {
@@ -656,7 +727,7 @@
    "nom": "FINN LMG",
    "cat": "LMG",
    "tier": "A",
-   "rang": 5,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/finn-lmg-mw4",
    "builds": [
     {
@@ -726,7 +797,7 @@
    "nom": "SIGNAL 50",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 6,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/signal-50-mw4",
    "builds": [
     {
@@ -767,7 +838,7 @@
    "nom": "KG-7 VULCAN",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 7,
+   "rang": 8,
    "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
    "builds": [
     {
@@ -976,20 +1047,11 @@
    "builds": []
   },
   {
-   "id": "vel-46-mw4",
-   "nom": "VEL 46",
-   "cat": "SMG",
-   "tier": "D",
-   "rang": 5,
-   "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
-   "builds": []
-  },
-  {
    "id": "wz55-striga-mw4",
    "nom": "Wz.55 Striga",
    "cat": "SMG",
    "tier": "D",
-   "rang": 6,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
    "builds": []
   },
@@ -998,7 +1060,7 @@
    "nom": "Warlord",
    "cat": "SHOTGUN",
    "tier": "D",
-   "rang": 7,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/warlord-mw4",
    "builds": []
   },
@@ -1007,7 +1069,7 @@
    "nom": "APOC-338",
    "cat": "LMG",
    "tier": "D",
-   "rang": 8,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/apoc-338-mw4",
    "builds": []
   },
@@ -1016,7 +1078,7 @@
    "nom": "Mosin-Nagant",
    "cat": "MARKSMAN_RIFLE",
    "tier": "D",
-   "rang": 9,
+   "rang": 8,
    "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
    "builds": []
   },
@@ -1025,7 +1087,7 @@
    "nom": "Astaroth .57",
    "cat": "SNIPER_RIFLE",
    "tier": "D",
-   "rang": 10,
+   "rang": 9,
    "lien": "https://wzstats.gg/fr/best-loadouts/astaroth-57-mw4",
    "builds": []
   },
@@ -1034,7 +1096,7 @@
    "nom": "SANG 9mm",
    "cat": "PISTOL",
    "tier": "D",
-   "rang": 11,
+   "rang": 10,
    "lien": "https://wzstats.gg/fr/best-loadouts/sang-9mm-mw4",
    "builds": []
   },
@@ -1043,7 +1105,7 @@
    "nom": "Mojave .357",
    "cat": "PISTOL",
    "tier": "D",
-   "rang": 12,
+   "rang": 11,
    "lien": "https://wzstats.gg/fr/best-loadouts/mojave-357-mw4",
    "builds": []
   },
@@ -1052,7 +1114,7 @@
    "nom": "PILA",
    "cat": "LAUNCHER",
    "tier": "D",
-   "rang": 13,
+   "rang": 12,
    "lien": "https://wzstats.gg/fr/best-loadouts/pila-mw4",
    "builds": []
   },
@@ -1061,7 +1123,7 @@
    "nom": "RPG-8",
    "cat": "LAUNCHER",
    "tier": "D",
-   "rang": 14,
+   "rang": 13,
    "lien": "https://wzstats.gg/fr/best-loadouts/rpg-8-mw4",
    "builds": []
   },
@@ -1070,7 +1132,7 @@
    "nom": "JOKR",
    "cat": "LAUNCHER",
    "tier": "D",
-   "rang": 15,
+   "rang": 14,
    "lien": "https://wzstats.gg/fr/best-loadouts/jokr-mw4",
    "builds": []
   },
@@ -1079,7 +1141,7 @@
    "nom": "PM-40 Anvil",
    "cat": "LAUNCHER",
    "tier": "D",
-   "rang": 16,
+   "rang": 15,
    "lien": "https://wzstats.gg/fr/best-loadouts/pm-40-anvil-mw4",
    "builds": []
   },
@@ -1088,7 +1150,7 @@
    "nom": "FSS Carbon Edge 1095",
    "cat": "MELEE",
    "tier": "D",
-   "rang": 17,
+   "rang": 16,
    "lien": "https://wzstats.gg/fr/best-loadouts/fss-carbon-edge-1095-mw4",
    "builds": []
   }
