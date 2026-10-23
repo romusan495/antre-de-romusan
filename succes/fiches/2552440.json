@@ -1,6 +1,7 @@
 {
   "jeu": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "sources": [
+    { "titre": "ActuGaming, liste des trophées (noms français des mondes)", "url": "https://www.actugaming.net/kingdom-hearts-dream-drop-distance-devoile-trophees-ps4-71280" },
     { "titre": "RPG Site, objectifs et garde-robe de 0.2 (en anglais)", "url": "https://www.rpgsite.net/feature/5225-kingdom-hearts-2-8-guide-every-objective-and-wardrobe-gear-unlock-in-kh-0-2" },
     { "titre": "RPG Site, reliques du zodiaque de 0.2 (en anglais)", "url": "https://www.rpgsite.net/feature/5227-kingdom-hearts-2-8-guide-how-to-get-all-the-zodiac-relics-and-unlock-the-0-2-s-secret-boss-rush" },
     { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/2552440/achievements" }
@@ -8,14 +9,14 @@
   "note": "Deux jeux : les étapes suivent Dream Drop Distance (mondes dans l'ordre) ; les succès de 0.2 Birth by Sleep sont montrés à part. Rien ne se rate : coffres, objectifs et portails secrets se font après la fin (et en nouvelle partie+ pour 0.2). Seuls « Invaincue » et « Joueur d'exception » demandent une partie entière.",
   "sauvegarde": { "lisible": false, "chemin": "%USERPROFILE%\\Documents\\My Games\\KINGDOM HEARTS HD 2.8 Final Chapter Prologue\\Steam\\<compte>", "note": "Fichiers de sauvegarde au format propre du jeu, non documenté : position déduite des succès." },
   "sections": [
-    { "id": "traverse", "nom": "Dream Drop Distance : Ville de Traverse" },
-    { "id": "cloches", "nom": "Cité des Cloches", "atteinte": "ACH_30" },
-    { "id": "grille", "nom": "La Grille", "atteinte": "ACH_31" },
-    { "id": "paradis", "nom": "Paradis des Garnements", "atteinte": "ACH_32" },
+    { "id": "traverse", "nom": "Dream Drop Distance : Ville de Traverse", "motsCles": ["Ville de Traverse"] },
+    { "id": "cloches", "nom": "Cité des Cloches", "atteinte": "ACH_30", "motsCles": ["Cité des Cloches"] },
+    { "id": "grille", "nom": "La Grille", "atteinte": "ACH_31", "motsCles": ["La Grille"] },
+    { "id": "paradis", "nom": "Paradis des Garnements", "atteinte": "ACH_32", "motsCles": ["Paradis des Garnements"] },
     { "id": "traverse2", "nom": "Ville de Traverse (retour)", "atteinte": "ACH_33" },
-    { "id": "mousquetaires", "nom": "Pays des Mousquetaires", "atteinte": "ACH_34" },
-    { "id": "symphonie", "nom": "Symphonie du Sorcier", "atteinte": "ACH_35" },
-    { "id": "illusiopolis", "nom": "Illusiopolis", "atteinte": "ACH_36" },
+    { "id": "mousquetaires", "nom": "Pays des Mousquetaires", "atteinte": "ACH_34", "motsCles": ["Pays des Mousquetaires"] },
+    { "id": "symphonie", "nom": "Symphonie du Sorcier", "atteinte": "ACH_35", "motsCles": ["Symphonie du Sorcier"] },
+    { "id": "illusiopolis", "nom": "Illusiopolis", "atteinte": "ACH_36", "motsCles": ["Illusiopolis"] },
     { "id": "fin", "nom": "Après l'histoire de Dream Drop Distance", "atteinte": "ACH_37" }
   ],
   "succes": {

@@ -1,17 +1,18 @@
 {
   "jeu": "Dishonored : La Mort de l'Outsider",
   "sources": [
+    { "titre": "jeu.video, présentation et noms des missions", "url": "https://jeu.video/action-aventure/dishonored-la-mort-de-loutsider/presentation-du-jeu-9" },
     { "titre": "PowerPyx, guide des trophées (en anglais)", "url": "https://powerpyx.com/dishonored-death-of-the-outsider-trophy-guide-roadmap" },
     { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/614570/achievements" }
   ],
   "note": "Les missions se rejouent par la sélection de mission : seuls Ombre, Amateur d'art et Mercenaire se ratent (ils comptent sur une même partie). Difficulté sans effet sur les succès.",
   "sauvegarde": { "lisible": false, "note": "Non examinée : position déduite des succès d'histoire." },
   "sections": [
-    { "id": "m1", "nom": "Mission 1 (arène, cage de Daud)" },
-    { "id": "m2", "nom": "Mission 2 (maison de Shan Yun, Colibron Plaza)", "atteinte": "ACH_1" },
+    { "id": "m1", "nom": "Mission 1 (arène, cage de Daud)", "motsCles": ["Le dernier combat"] },
+    { "id": "m2", "nom": "Mission 2 (maison de Shan Yun, Colibron Plaza)", "atteinte": "ACH_1", "motsCles": ["La piste de l'encre"] },
     { "id": "m3", "nom": "Mission 3 (la banque)", "atteinte": "ACH_2" },
-    { "id": "m4", "nom": "Mission 4 (Conservatoire royal)", "atteinte": "ACH_3" },
-    { "id": "m5", "nom": "Mission 5 (dernière mission)", "atteinte": "ACH_4" },
+    { "id": "m4", "nom": "Mission 4 (Conservatoire royal)", "atteinte": "ACH_3", "motsCles": ["L'archive volée", "Conservatoire royal"] },
+    { "id": "m5", "nom": "Mission 5 (dernière mission)", "atteinte": "ACH_4", "motsCles": ["Une brèche dans le monde"] },
     { "id": "fin", "nom": "Après la fin du jeu", "atteinte": ["ACH_6", "ACH_7"] }
   ],
   "succes": {
