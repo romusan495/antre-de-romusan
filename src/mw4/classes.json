@@ -1,6 +1,6 @@
 {
  "source": "https://wzstats.gg/fr/mw4/meta",
- "maj": "2026-10-23",
+ "maj": "2026-10-26",
  "armes": [
   {
    "id": "han-86-mw4",
@@ -73,11 +73,81 @@
    ]
   },
   {
+   "id": "iso-nightshade-mw4",
+   "nom": "ISO NIGHTSHADE",
+   "cat": "SMG",
+   "tier": "META",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "XRK HERDER 40",
+       "niv": 16
+      },
+      {
+       "slot": "barrel",
+       "nom": "ZLR CARBON-900",
+       "niv": 35
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS TAC90 GRIP",
+       "niv": 48
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "DEMO STP-1",
+       "niv": 6
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 39
+      }
+     ]
+    },
+    {
+     "style": "LOW_LEVEL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS CRACKDOWN",
+       "niv": 4
+      },
+      {
+       "slot": "barrel",
+       "nom": "ZLR MAG-Z 9\"",
+       "niv": 2
+      },
+      {
+       "slot": "ammunition",
+       "nom": "9MM PARABELLUM FRANGIBLE",
+       "niv": 8
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "DEMO STP-1",
+       "niv": 6
+      },
+      {
+       "slot": "stock",
+       "nom": "GI-80 MILSPEC STOCK",
+       "niv": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "m4-mw4",
    "nom": "M4",
    "cat": "ASSAULT_RIFLE",
    "tier": "META",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/m4-mw4",
    "builds": [
     {
@@ -174,76 +244,6 @@
    ]
   },
   {
-   "id": "iso-nightshade-mw4",
-   "nom": "ISO NIGHTSHADE",
-   "cat": "SMG",
-   "tier": "META",
-   "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "XRK HERDER 40",
-       "niv": 16
-      },
-      {
-       "slot": "barrel",
-       "nom": "ZLR CARBON-900",
-       "niv": 35
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 48
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "DEMO STP-1",
-       "niv": 6
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 39
-      }
-     ]
-    },
-    {
-     "style": "LOW_LEVEL",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "FSS CRACKDOWN",
-       "niv": 4
-      },
-      {
-       "slot": "barrel",
-       "nom": "ZLR MAG-Z 9\"",
-       "niv": 2
-      },
-      {
-       "slot": "ammunition",
-       "nom": "9MM PARABELLUM FRANGIBLE",
-       "niv": 8
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "DEMO STP-1",
-       "niv": 6
-      },
-      {
-       "slot": "stock",
-       "nom": "GI-80 MILSPEC STOCK",
-       "niv": 15
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "vel-46-mw4",
    "nom": "VEL 46",
    "cat": "SMG",
@@ -256,23 +256,23 @@
      "acc": [
       {
        "slot": "muzzle",
-       "nom": "FSS CRACKDOWN",
-       "niv": 0
+       "nom": "XRK HERDER 40",
+       "niv": 51
       },
       {
        "slot": "barrel",
        "nom": "VB-46 SERIES 11",
-       "niv": 0
+       "niv": 3
       },
       {
-       "slot": "rearGrip",
-       "nom": "LM COMBAT GRIP",
-       "niv": 0
+       "slot": "underbarrel",
+       "nom": "FSS FIRELINE GRIP",
+       "niv": 10
       },
       {
        "slot": "stock",
        "nom": "VEL 46 EXTENDED",
-       "niv": 0
+       "niv": 20
       },
       {
        "slot": "laser",
@@ -288,22 +288,22 @@
       {
        "slot": "muzzle",
        "nom": "212 LC40 COMP",
-       "niv": 0
+       "niv": 27
       },
       {
        "slot": "barrel",
        "nom": "VB-46 SERIES 11",
-       "niv": 0
+       "niv": 3
       },
       {
        "slot": "underbarrel",
        "nom": "FSS FIRELINE GRIP",
-       "niv": 0
+       "niv": 10
       },
       {
        "slot": "rearGrip",
        "nom": "LM COMBAT GRIP",
-       "niv": 0
+       "niv": 40
       },
       {
        "slot": "laser",
@@ -349,37 +349,6 @@
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
        "niv": 30
-      }
-     ]
-    },
-    {
-     "style": "APEX",
-     "apex": "KASTOV 545",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "GAUGE-12 MONO",
-       "niv": 34
-      },
-      {
-       "slot": "barrel",
-       "nom": "HANBIT 74U 205.74MM",
-       "niv": 24
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 3
-      },
-      {
-       "slot": "stock",
-       "nom": "KASTOV COMBAT LITE STOCK",
-       "niv": 27
-      },
-      {
-       "slot": "laser",
-       "nom": "XRK CLUTCH-LS",
-       "niv": 53
       }
      ]
     }
@@ -480,22 +449,22 @@
       {
        "slot": "muzzle",
        "nom": "FSS IS300",
-       "niv": 0
+       "niv": 28
       },
       {
        "slot": "barrel",
        "nom": "XRK 09-RTAC PRO",
-       "niv": 0
+       "niv": 52
       },
       {
        "slot": "magazine",
        "nom": "TAMBOUR DE 100 CARTOUCHES",
-       "niv": 0
+       "niv": 38
       },
       {
        "slot": "ammunition",
        "nom": ".300 BLK FRANGIBLE",
-       "niv": 0
+       "niv": 48
       }
      ]
     },
@@ -503,29 +472,29 @@
      "style": "VERSATILE",
      "acc": [
       {
+       "slot": "muzzle",
+       "nom": "FSS IS300",
+       "niv": 28
+      },
+      {
        "slot": "barrel",
-       "nom": "MATUZEK S5-BRACE",
-       "niv": 0
+       "nom": "SA DMN-L 30\"",
+       "niv": 6
       },
       {
        "slot": "underbarrel",
        "nom": "FSS FIRELINE GRIP",
-       "niv": 0
+       "niv": 7
       },
       {
        "slot": "rearGrip",
        "nom": "GS50 GRIP",
-       "niv": 0
-      },
-      {
-       "slot": "stock",
-       "nom": "XRK RELAY 7",
-       "niv": 0
+       "niv": 55
       },
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
-       "niv": 0
+       "niv": 9
       }
      ]
     }
