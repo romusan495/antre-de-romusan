@@ -421,6 +421,46 @@
    ]
   },
   {
+   "id": "mosin-nagant-mw4",
+   "nom": "Mosin-Nagant",
+   "cat": "MARKSMAN_RIFLE",
+   "tier": "META",
+   "rang": 7,
+   "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
+   "builds": [
+    {
+     "style": "BUILD",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "CRONEN R808",
+       "niv": 0
+      },
+      {
+       "slot": "muzzle",
+       "nom": "DS RKT-90",
+       "niv": 0
+      },
+      {
+       "slot": "barrel",
+       "nom": "762 DOZOR BARREL",
+       "niv": 0
+      },
+      {
+       "slot": "stock",
+       "nom": "LOCKWOOD EAGLE STOCK",
+       "niv": 0
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "partriot-xmr-mw4",
    "nom": "PARTRIOT XMR",
    "cat": "ASSAULT_RIFLE",
@@ -461,11 +501,77 @@
    ]
   },
   {
+   "id": "oden-mw4",
+   "nom": "Oden",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "A",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SLIMLINE ELITE",
+       "niv": 0
+      },
+      {
+       "slot": "muzzle",
+       "nom": "BRYSON BULLHIDE 90",
+       "niv": 0
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS FIRELINE GRIP",
+       "niv": 0
+      },
+      {
+       "slot": "stock",
+       "nom": "HAEBANG STAL-W5",
+       "niv": 0
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 0
+      }
+     ]
+    },
+    {
+     "style": "APEX",
+     "apex": "ODEN SENTINEL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SZ SRE-7",
+       "niv": 0
+      },
+      {
+       "slot": "ammunition",
+       "nom": "12.7X55MM HIGH VELOCITY",
+       "niv": 0
+      },
+      {
+       "slot": "stock",
+       "nom": "VLK NVS-32 PAD",
+       "niv": 0
+      },
+      {
+       "slot": "laser",
+       "nom": "XRK CLUTCH-LS",
+       "niv": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "x-58-nyx-mw4",
    "nom": "X-58 NYX",
    "cat": "SMG",
    "tier": "A",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/x-58-nyx-mw4",
    "builds": [
     {
@@ -505,7 +611,7 @@
    "nom": "PPSH-41",
    "cat": "SMG",
    "tier": "A",
-   "rang": 3,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/ppsh-41-mw4",
    "builds": [
     {
@@ -575,7 +681,7 @@
    "nom": "Wz.55 Striga",
    "cat": "SMG",
    "tier": "A",
-   "rang": 4,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
    "builds": [
     {
@@ -642,11 +748,52 @@
    ]
   },
   {
+   "id": "hyeon-burst-mw4",
+   "nom": "HYEON BURST",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "A",
+   "rang": 6,
+   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
+   "builds": [
+    {
+     "style": "APEX",
+     "apex": "HYEON HYPERBURST",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "IOTA-D",
+       "niv": 33
+      },
+      {
+       "slot": "muzzle",
+       "nom": "FSS IS300",
+       "niv": 63
+      },
+      {
+       "slot": "barrel",
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS TAC90 GRIP",
+       "niv": 39
+      },
+      {
+       "slot": "laser",
+       "nom": "SZ GEN.6 PEQ",
+       "niv": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "kg-7-vulcan-mw4",
    "nom": "KG-7 VULCAN",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 5,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
    "builds": [
     {
@@ -696,112 +843,6 @@
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
        "niv": 7
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mosin-nagant-mw4",
-   "nom": "Mosin-Nagant",
-   "cat": "MARKSMAN_RIFLE",
-   "tier": "A",
-   "rang": 6,
-   "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
-   "builds": [
-    {
-     "style": "BUILD",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "CRONEN R808",
-       "niv": 0
-      },
-      {
-       "slot": "muzzle",
-       "nom": "DS RKT-90",
-       "niv": 0
-      },
-      {
-       "slot": "barrel",
-       "nom": "762 DOZOR BARREL",
-       "niv": 0
-      },
-      {
-       "slot": "stock",
-       "nom": "LOCKWOOD EAGLE STOCK",
-       "niv": 0
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "oden-mw4",
-   "nom": "Oden",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "A",
-   "rang": 7,
-   "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "SLIMLINE ELITE",
-       "niv": 0
-      },
-      {
-       "slot": "muzzle",
-       "nom": "BRYSON BULLHIDE 90",
-       "niv": 0
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 0
-      },
-      {
-       "slot": "stock",
-       "nom": "HAEBANG STAL-W5",
-       "niv": 0
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 0
-      }
-     ]
-    },
-    {
-     "style": "APEX",
-     "apex": "ODEN SENTINEL",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "SZ SRE-7",
-       "niv": 0
-      },
-      {
-       "slot": "ammunition",
-       "nom": "12.7X55MM HIGH VELOCITY",
-       "niv": 0
-      },
-      {
-       "slot": "stock",
-       "nom": "VLK NVS-32 PAD",
-       "niv": 0
-      },
-      {
-       "slot": "laser",
-       "nom": "XRK CLUTCH-LS",
-       "niv": 0
       }
      ]
     }
@@ -924,41 +965,70 @@
    ]
   },
   {
-   "id": "hyeon-burst-mw4",
-   "nom": "HYEON BURST",
-   "cat": "ASSAULT_RIFLE",
+   "id": "finn-lmg-mw4",
+   "nom": "FINN LMG",
+   "cat": "LMG",
    "tier": "A",
    "rang": 10,
-   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
+   "lien": "https://wzstats.gg/fr/best-loadouts/finn-lmg-mw4",
    "builds": [
     {
-     "style": "APEX",
-     "apex": "HYEON HYPERBURST",
+     "style": "LOW_LEVEL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SLIMLINE ELITE",
+       "niv": 7
+      },
+      {
+       "slot": "muzzle",
+       "nom": "FTAC DOMINION",
+       "niv": 9
+      },
+      {
+       "slot": "barrel",
+       "nom": "FTAC FIREBASE-70 15\"",
+       "niv": 2
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "XRK AURA-5",
+       "niv": 8
+      },
+      {
+       "slot": "stock",
+       "nom": "HANBIT TECH50 GEN.5",
+       "niv": 5
+      }
+     ]
+    },
+    {
+     "style": "VERSATILE",
      "acc": [
       {
        "slot": "optic",
        "nom": "IOTA-D",
-       "niv": 33
+       "niv": 40
       },
       {
        "slot": "muzzle",
-       "nom": "FSS IS300",
-       "niv": 63
-      },
-      {
-       "slot": "barrel",
-       "nom": "MUGI INGOEM 558.8MM",
-       "niv": 46
+       "nom": "XRK MIL-TAC SUPPRESSOR",
+       "niv": 36
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 39
+       "nom": "BRUEN RENEGADE GRIP",
+       "niv": 45
+      },
+      {
+       "slot": "magazine",
+       "nom": "75 ROUND BOX MAG",
+       "niv": 34
       },
       {
        "slot": "laser",
        "nom": "SZ GEN.6 PEQ",
-       "niv": 4
+       "niv": 44
       }
      ]
     }
@@ -1076,117 +1146,6 @@
    ]
   },
   {
-   "id": "finn-lmg-mw4",
-   "nom": "FINN LMG",
-   "cat": "LMG",
-   "tier": "A",
-   "rang": 13,
-   "lien": "https://wzstats.gg/fr/best-loadouts/finn-lmg-mw4",
-   "builds": [
-    {
-     "style": "LOW_LEVEL",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "SLIMLINE ELITE",
-       "niv": 7
-      },
-      {
-       "slot": "muzzle",
-       "nom": "FTAC DOMINION",
-       "niv": 9
-      },
-      {
-       "slot": "barrel",
-       "nom": "FTAC FIREBASE-70 15\"",
-       "niv": 2
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "XRK AURA-5",
-       "niv": 8
-      },
-      {
-       "slot": "stock",
-       "nom": "HANBIT TECH50 GEN.5",
-       "niv": 5
-      }
-     ]
-    },
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "IOTA-D",
-       "niv": 40
-      },
-      {
-       "slot": "muzzle",
-       "nom": "XRK MIL-TAC SUPPRESSOR",
-       "niv": 36
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "BRUEN RENEGADE GRIP",
-       "niv": 45
-      },
-      {
-       "slot": "magazine",
-       "nom": "75 ROUND BOX MAG",
-       "niv": 34
-      },
-      {
-       "slot": "laser",
-       "nom": "SZ GEN.6 PEQ",
-       "niv": 44
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "signal-50-mw4",
-   "nom": "SIGNAL 50",
-   "cat": "SNIPER_RIFLE",
-   "tier": "A",
-   "rang": 14,
-   "lien": "https://wzstats.gg/fr/best-loadouts/signal-50-mw4",
-   "builds": [
-    {
-     "style": "APEX",
-     "apex": "SIGNAL 50 INFERNO",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "FSS MOODKILLER",
-       "niv": 33
-      },
-      {
-       "slot": "barrel",
-       "nom": "TV ICARUS 50 24.5\"",
-       "niv": 61
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "GL ZERO DROP 6",
-       "niv": 66
-      },
-      {
-       "slot": "stock",
-       "nom": "CRONEN SN-PAD50",
-       "niv": 26
-      },
-      {
-       "slot": "laser",
-       "nom": "XRK CLUTCH-LS",
-       "niv": 40
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "cronen-squall-mw4",
    "nom": "Cronen Squall",
    "cat": "ASSAULT_RIFLE",
@@ -1298,11 +1257,52 @@
    ]
   },
   {
+   "id": "signal-50-mw4",
+   "nom": "SIGNAL 50",
+   "cat": "SNIPER_RIFLE",
+   "tier": "B",
+   "rang": 3,
+   "lien": "https://wzstats.gg/fr/best-loadouts/signal-50-mw4",
+   "builds": [
+    {
+     "style": "APEX",
+     "apex": "SIGNAL 50 INFERNO",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS MOODKILLER",
+       "niv": 33
+      },
+      {
+       "slot": "barrel",
+       "nom": "TV ICARUS 50 24.5\"",
+       "niv": 61
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "GL ZERO DROP 6",
+       "niv": 66
+      },
+      {
+       "slot": "stock",
+       "nom": "CRONEN SN-PAD50",
+       "niv": 26
+      },
+      {
+       "slot": "laser",
+       "nom": "XRK CLUTCH-LS",
+       "niv": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "warlord-mw4",
    "nom": "Warlord",
    "cat": "SHOTGUN",
    "tier": "B",
-   "rang": 3,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/warlord-mw4",
    "builds": [
     {
