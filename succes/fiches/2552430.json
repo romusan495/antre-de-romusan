@@ -1,6 +1,7 @@
 {
   "jeu": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
   "sources": [
+    { "titre": "KH Destiny, solution du prologue de KINGDOM HEARTS II", "url": "https://www.khdestiny.fr/kingdom-hearts-ii-final-mix-hd-2-5-remix-solution-prologue.html" },
     { "titre": "Succès sur Steam (rareté)", "url": "https://steamcommunity.com/stats/2552430/achievements" },
     { "titre": "Discussions Steam sur les succès (en anglais)", "url": "https://steamcommunity.com/app/2552430/discussions/0/4515505663138678072" },
     { "titre": "TrueAchievements, succès de la compilation (en anglais)", "url": "https://www.trueachievements.com/a293010/unchanging-armor-achievement" }
@@ -19,8 +20,8 @@
     "ACH_056": { "conseil": "Re:Chain of Memories : partie de Sora en mode expert." },
     "ACH_057": { "conseil": "Re:Chain of Memories : partie de Riku en mode expert." },
     "ACH_103": { "conseil": "KINGDOM HEARTS II : partie entière en mode Maître." },
-    "ACH_138": { "conseil": "KINGDOM HEARTS II : des coffres du prologue de Roxas comptent peut-être et ne se rouvrent plus : ouvre-les tous avant de quitter ce prologue.", "aConfirmer": true },
-    "ACH_139": { "conseil": "KINGDOM HEARTS II : pièces de puzzle dans les coffres ; même prudence avec le prologue de Roxas.", "aConfirmer": true },
+    "ACH_138": { "conseil": "KINGDOM HEARTS II : des coffres du prologue de Roxas comptent peut-être et ne se rouvrent plus : ouvre-les tous avant de quitter ce prologue.", "aConfirmer": true, "motsCles": ["Cité du Crépuscule", "Manoir abandonné", "Terrasse du Couchant", "Palier de l'Éveil"] },
+    "ACH_139": { "conseil": "KINGDOM HEARTS II : pièces de puzzle dans les coffres ; même prudence avec le prologue de Roxas.", "aConfirmer": true, "motsCles": ["Cité du Crépuscule", "Manoir abandonné", "Terrasse du Couchant", "Palier de l'Éveil"] },
     "ACH_141": { "conseil": "KINGDOM HEARTS II : toutes les missions du carnet, dont les missions avancées d'après-jeu.", "aConfirmer": true },
     "ACH_153": { "conseil": "Birth by Sleep : finir en Critique avec Terra, Ventus et Aqua." },
     "ACH_154": { "conseil": "Birth by Sleep : épisode secret débloqué après l'épisode final, avec les conditions de collection demandées par le jeu.", "aConfirmer": true },

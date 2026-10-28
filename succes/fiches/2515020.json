@@ -4,6 +4,7 @@
     { "titre": "PowerPyx, guide des trophées (en anglais)", "url": "https://powerpyx.com/final-fantasy-16-xvi-trophy-guide-roadmap" },
     { "titre": "Samurai Gamers, contenu ratable (en anglais)", "url": "https://samurai-gamers.com/final-fantasy-xvi-ff16/permanent-events-and-missable-features-guide-3/" },
     { "titre": "Dot Esports, accès à « La complainte du ressac » (en anglais)", "url": "https://dotesports.com/ff/news/do-you-need-to-finish-final-fantasy-16-to-play-the-rising-ride-dlc" },
+    { "titre": "Millenium, cibles d'élite (noms français)", "url": "https://www.millenium.org/games/game-1108/guides/guide-1994" },
     { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/2515020/achievements" }
   ],
   "note": "Un seul succès ratable : « Entrer dans la légende », si tu vends les matériaux de Götterdämmerung (dont l'épée Ragnarok). Après la fin, le jeu revient avant la dernière quête et le mode « Fantaisie finale » s'ouvre en Nouvelle partie +. Les numéros de quêtes principales suivent le guide PowerPyx.",
@@ -42,8 +43,8 @@
     "1048": { "depuis": "q27", "conseil": "S'additionne sur toute la partie : achète tes consommables à la taverne du Repaire.", "aConfirmer": true },
     "1047": { "depuis": "q27", "conseil": "Après la quête principale 31 : quête secondaire à la Halte de Martha.", "aConfirmer": true },
     "1037": { "depuis": "q44", "conseil": "Au plus tôt vers la quête principale 48 ; parle-lui régulièrement, il reste disponible après la fin." },
-    "1040": { "depuis": "q27", "conseil": "Tableau des chasses du Repaire.", "aConfirmer": true },
-    "1041": { "depuis": "q67", "conseil": "Les dernières cibles n'apparaissent qu'en fin de jeu.", "aConfirmer": true },
+    "1040": { "depuis": "q27", "conseil": "Tableau des chasses du Repaire.", "aConfirmer": true, "motsCles": ["Limon Carnivore", "Ananké", "Grimalkin", "Sekhret", "Béhémoth Roi", "Fatistocalon", "Gorgimère", "Pandémonium"] },
+    "1041": { "depuis": "q67", "conseil": "Les dernières cibles n'apparaissent qu'en fin de jeu.", "aConfirmer": true, "motsCles": ["Limon Carnivore", "Ananké", "Grimalkin", "Sekhret", "Béhémoth Roi", "Fatistocalon", "Gorgimère", "Pandémonium"] },
     "1042": { "depuis": "q27", "conseil": "Le guide conseille d'attendre la fin du jeu et l'épée Götterdämmerung.", "aConfirmer": true },
     "1014": { "depuis": "q67", "conseil": "Ne vends jamais l'épée Ragnarok ni les matériaux rares : forge-la en fin de jeu.", "aConfirmer": true },
     "1013": { "conseil": "Forger ou renforcer 5 fois chez un forgeron." },
