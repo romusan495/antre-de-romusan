@@ -4,7 +4,7 @@
  "armes": [
   {
    "id": "axion-mw4",
-   "nom": "Axion",
+   "nom": "AXION",
    "cat": "ASSAULT_RIFLE",
    "tier": "META",
    "rang": 1,
@@ -139,70 +139,71 @@
    ]
   },
   {
-   "id": "han-86-mw4",
-   "nom": "HAN 86",
-   "cat": "ASSAULT_RIFLE",
+   "id": "vel-46-mw4",
+   "nom": "VEL 46",
+   "cat": "SMG",
    "tier": "META",
    "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/han-86-mw4",
+   "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
    "builds": [
-    {
-     "style": "LOW_LEVEL",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "SZ MICRO D-3",
-       "niv": 5
-      },
-      {
-       "slot": "barrel",
-       "nom": "HANBIT RK8 406.4MM",
-       "niv": 7
-      },
-      {
-       "slot": "ammunition",
-       "nom": "5.56 NATO FRANGIBLE",
-       "niv": 8
-      },
-      {
-       "slot": "stock",
-       "nom": "FR4 RETRACTABLE STOCK",
-       "niv": 4
-      },
-      {
-       "slot": "laser",
-       "nom": "XRK CLUTCH-LS",
-       "niv": 3
-      }
-     ]
-    },
     {
      "style": "VERSATILE",
      "acc": [
       {
-       "slot": "optic",
-       "nom": "SZ PRIMA-4 DOT",
-       "niv": 37
+       "slot": "muzzle",
+       "nom": "XRK HERDER 40",
+       "niv": 51
       },
       {
        "slot": "barrel",
-       "nom": "HAN 86 SILENCED 413MM",
-       "niv": 54
+       "nom": "VB-46 SERIES 11",
+       "niv": 3
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 53
+       "nom": "FSS FIRELINE GRIP",
+       "niv": 10
       },
       {
        "slot": "stock",
-       "nom": "MEIKO L9P-FOLD",
-       "niv": 44
+       "nom": "VEL 46 EXTENDED",
+       "niv": 20
       },
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
-       "niv": 45
+       "niv": 0
+      }
+     ]
+    },
+    {
+     "style": "APEX",
+     "apex": "VEL 46 SNAP",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "212 LC40 COMP",
+       "niv": 27
+      },
+      {
+       "slot": "barrel",
+       "nom": "VB-46 SERIES 11",
+       "niv": 3
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS FIRELINE GRIP",
+       "niv": 10
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "LM COMBAT GRIP",
+       "niv": 40
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 0
       }
      ]
     }
@@ -310,122 +311,11 @@
    ]
   },
   {
-   "id": "vel-46-mw4",
-   "nom": "VEL 46",
-   "cat": "SMG",
-   "tier": "META",
-   "rang": 5,
-   "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "XRK HERDER 40",
-       "niv": 51
-      },
-      {
-       "slot": "barrel",
-       "nom": "VB-46 SERIES 11",
-       "niv": 3
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 10
-      },
-      {
-       "slot": "stock",
-       "nom": "VEL 46 EXTENDED",
-       "niv": 20
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 0
-      }
-     ]
-    },
-    {
-     "style": "APEX",
-     "apex": "VEL 46 SNAP",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "212 LC40 COMP",
-       "niv": 27
-      },
-      {
-       "slot": "barrel",
-       "nom": "VB-46 SERIES 11",
-       "niv": 3
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 10
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "LM COMBAT GRIP",
-       "niv": 40
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kastov-762-mw4",
-   "nom": "KASTOV 762",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "META",
-   "rang": 6,
-   "lien": "https://wzstats.gg/fr/best-loadouts/kastov-762-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "CRONEN ZERO-K",
-       "niv": 35
-      },
-      {
-       "slot": "barrel",
-       "nom": "FJX GHOSTFIRE 16.3\"",
-       "niv": 61
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 47
-      },
-      {
-       "slot": "stock",
-       "nom": "KASTOV DOGFIGHTER 27",
-       "niv": 42
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 30
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "mosin-nagant-mw4",
-   "nom": "Mosin-Nagant",
+   "nom": "MOSIN-NAGANT",
    "cat": "MARKSMAN_RIFLE",
    "tier": "META",
-   "rang": 7,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
    "builds": [
     {
@@ -461,11 +351,51 @@
    ]
   },
   {
+   "id": "kastov-762-mw4",
+   "nom": "KASTOV 762",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "A",
+   "rang": 1,
+   "lien": "https://wzstats.gg/fr/best-loadouts/kastov-762-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "CRONEN ZERO-K",
+       "niv": 35
+      },
+      {
+       "slot": "barrel",
+       "nom": "FJX GHOSTFIRE 16.3\"",
+       "niv": 61
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS TAC90 GRIP",
+       "niv": 47
+      },
+      {
+       "slot": "stock",
+       "nom": "KASTOV DOGFIGHTER 27",
+       "niv": 42
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "partriot-xmr-mw4",
    "nom": "PARTRIOT XMR",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 1,
+   "rang": 2,
    "lien": "https://wzstats.gg/fr/best-loadouts/partriot-xmr-mw4",
    "builds": [
     {
@@ -502,10 +432,10 @@
   },
   {
    "id": "oden-mw4",
-   "nom": "Oden",
+   "nom": "ODEN",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
    "builds": [
     {
@@ -561,46 +491,6 @@
        "slot": "laser",
        "nom": "XRK CLUTCH-LS",
        "niv": 0
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "x-58-nyx-mw4",
-   "nom": "X-58 NYX",
-   "cat": "SMG",
-   "tier": "A",
-   "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/x-58-nyx-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "barrel",
-       "nom": "LX3-V 408.94MM",
-       "niv": 39
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "MIRE-50 TAC GRIP",
-       "niv": 7
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "BOK-980",
-       "niv": 18
-      },
-      {
-       "slot": "stock",
-       "nom": "MUGI HUL-73.M STOCK",
-       "niv": 3
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 12
       }
      ]
     }
@@ -677,11 +567,51 @@
    ]
   },
   {
-   "id": "wz55-striga-mw4",
-   "nom": "Wz.55 Striga",
+   "id": "x-58-nyx-mw4",
+   "nom": "X-58 NYX",
    "cat": "SMG",
    "tier": "A",
    "rang": 5,
+   "lien": "https://wzstats.gg/fr/best-loadouts/x-58-nyx-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "barrel",
+       "nom": "LX3-V 408.94MM",
+       "niv": 39
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "MIRE-50 TAC GRIP",
+       "niv": 7
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "BOK-980",
+       "niv": 18
+      },
+      {
+       "slot": "stock",
+       "nom": "MUGI HUL-73.M STOCK",
+       "niv": 3
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 12
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wz55-striga-mw4",
+   "nom": "WZ.55 STRIGA",
+   "cat": "SMG",
+   "tier": "A",
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
    "builds": [
     {
@@ -752,7 +682,7 @@
    "nom": "HYEON BURST",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 6,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
    "builds": [
     {
@@ -789,11 +719,81 @@
    ]
   },
   {
+   "id": "han-86-mw4",
+   "nom": "HAN 86",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "A",
+   "rang": 8,
+   "lien": "https://wzstats.gg/fr/best-loadouts/han-86-mw4",
+   "builds": [
+    {
+     "style": "LOW_LEVEL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SZ MICRO D-3",
+       "niv": 5
+      },
+      {
+       "slot": "barrel",
+       "nom": "HANBIT RK8 406.4MM",
+       "niv": 7
+      },
+      {
+       "slot": "ammunition",
+       "nom": "5.56 NATO FRANGIBLE",
+       "niv": 8
+      },
+      {
+       "slot": "stock",
+       "nom": "FR4 RETRACTABLE STOCK",
+       "niv": 4
+      },
+      {
+       "slot": "laser",
+       "nom": "XRK CLUTCH-LS",
+       "niv": 3
+      }
+     ]
+    },
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SZ PRIMA-4 DOT",
+       "niv": 37
+      },
+      {
+       "slot": "barrel",
+       "nom": "HAN 86 SILENCED 413MM",
+       "niv": 54
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS TAC90 GRIP",
+       "niv": 53
+      },
+      {
+       "slot": "stock",
+       "nom": "MEIKO L9P-FOLD",
+       "niv": 44
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 45
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "kg-7-vulcan-mw4",
    "nom": "KG-7 VULCAN",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 7,
+   "rang": 9,
    "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
    "builds": [
     {
@@ -853,7 +853,7 @@
    "nom": "REZI 12",
    "cat": "SHOTGUN",
    "tier": "A",
-   "rang": 8,
+   "rang": 10,
    "lien": "https://wzstats.gg/fr/best-loadouts/rezi-12-mw4",
    "builds": [
     {
@@ -903,7 +903,7 @@
    "nom": "ORIS 8.6",
    "cat": "MARKSMAN_RIFLE",
    "tier": "A",
-   "rang": 9,
+   "rang": 11,
    "lien": "https://wzstats.gg/fr/best-loadouts/oris-86-mw4",
    "builds": [
     {
@@ -969,7 +969,7 @@
    "nom": "FINN LMG",
    "cat": "LMG",
    "tier": "A",
-   "rang": 10,
+   "rang": 12,
    "lien": "https://wzstats.gg/fr/best-loadouts/finn-lmg-mw4",
    "builds": [
     {
@@ -1038,8 +1038,8 @@
    "id": "type-73-mw4",
    "nom": "TYPE 73",
    "cat": "LMG",
-   "tier": "A",
-   "rang": 11,
+   "tier": "B",
+   "rang": 1,
    "lien": "https://wzstats.gg/fr/best-loadouts/type-73-mw4",
    "builds": [
     {
@@ -1109,8 +1109,8 @@
    "id": "mar-9-mw4",
    "nom": "MAR-9",
    "cat": "MARKSMAN_RIFLE",
-   "tier": "A",
-   "rang": 12,
+   "tier": "B",
+   "rang": 2,
    "lien": "https://wzstats.gg/fr/best-loadouts/mar-9-mw4",
    "builds": [
     {
@@ -1147,10 +1147,10 @@
   },
   {
    "id": "cronen-squall-mw4",
-   "nom": "Cronen Squall",
+   "nom": "CRONEN SQUALL",
    "cat": "ASSAULT_RIFLE",
    "tier": "B",
-   "rang": 1,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/cronen-squall-mw4",
    "builds": [
     {
@@ -1221,7 +1221,7 @@
    "nom": "APOC-338",
    "cat": "LMG",
    "tier": "B",
-   "rang": 2,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/apoc-338-mw4",
    "builds": [
     {
@@ -1261,7 +1261,7 @@
    "nom": "SIGNAL 50",
    "cat": "SNIPER_RIFLE",
    "tier": "B",
-   "rang": 3,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/signal-50-mw4",
    "builds": [
     {
@@ -1299,10 +1299,10 @@
   },
   {
    "id": "warlord-mw4",
-   "nom": "Warlord",
+   "nom": "WARLORD",
    "cat": "SHOTGUN",
    "tier": "B",
-   "rang": 4,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/warlord-mw4",
    "builds": [
     {
@@ -1384,7 +1384,7 @@
   },
   {
    "id": "sang-9mm-mw4",
-   "nom": "SANG 9mm",
+   "nom": "SANG 9MM",
    "cat": "PISTOL",
    "tier": "C",
    "rang": 3,
@@ -1393,7 +1393,7 @@
   },
   {
    "id": "mojave-357-mw4",
-   "nom": "Mojave .357",
+   "nom": "MOJAVE .357",
    "cat": "PISTOL",
    "tier": "C",
    "rang": 4,
@@ -1402,7 +1402,7 @@
   },
   {
    "id": "astaroth-57-mw4",
-   "nom": "Astaroth .57",
+   "nom": "ASTAROTH .57",
    "cat": "SNIPER_RIFLE",
    "tier": "D",
    "rang": 1,
@@ -1438,7 +1438,7 @@
   },
   {
    "id": "pm-40-anvil-mw4",
-   "nom": "PM-40 Anvil",
+   "nom": "PM-40 ANVIL",
    "cat": "LAUNCHER",
    "tier": "D",
    "rang": 5,
@@ -1447,7 +1447,7 @@
   },
   {
    "id": "fss-carbon-edge-1095-mw4",
-   "nom": "FSS Carbon Edge 1095",
+   "nom": "FSS CARBON EDGE 1095",
    "cat": "MELEE",
    "tier": "D",
    "rang": 6,
