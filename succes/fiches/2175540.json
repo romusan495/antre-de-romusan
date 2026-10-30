@@ -1,7 +1,8 @@
 {
   "jeu": "Dragon Quest Monsters : Le Prince des ombres",
   "sources": [
-    { "titre": "Succès sur Steam (ordre et rareté)", "url": "https://steamcommunity.com/stats/2175540/achievements" }
+    { "titre": "Succès sur Steam (ordre et rareté)", "url": "https://steamcommunity.com/stats/2175540/achievements" },
+    { "titre": "Game8, ordre des zones de l'histoire (en anglais)", "url": "https://game8.co/games/DQM-Dark-Prince/archives/439052" }
   ],
   "note": "Étapes déduites des succès d'histoire, débloqués dans l'ordre du scénario. La sauvegarde du jeu est chiffrée : la position vient de tes succès ou de ton choix.",
   "sections": [
@@ -9,7 +10,7 @@
     { "id": "rothery", "atteinte": "ACHIEVEMENT_ENCOUNTROTHERY" },
     { "id": "bennett", "atteinte": "ACHIEVEMENT_ENCOUNTBENNETT" },
     { "id": "chateau", "atteinte": "ACHIEVEMENT_CASTLELOAD" },
-    { "id": "verite", "atteinte": "ACHIEVEMENT_BACKINTIME" },
+    { "id": "verite", "atteinte": "ACHIEVEMENT_BACKINTIME", "motsCles": ["Berceau de la Corruption – Niveau supérieur", "Courroux – Échelon supérieur", "Gourmandise – Échelon supérieur", "Ténacité – Échelon supérieur", "Inconstance – Échelon supérieur", "Conquête – Échelon supérieur", "Sanctuaire d'Aamon"] },
     { "id": "preparatifs", "atteinte": "ACHIEVEMENT_GOTOFINALBATTLE" },
     { "id": "fin", "nom": "Après la fin de l'histoire", "atteinte": "ACHIEVEMENT_ENDTOFATE" },
     { "id": "mondes", "atteinte": "ACHIEVEMENT_WORLDSAVIOR" }
