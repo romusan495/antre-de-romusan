@@ -1,0 +1,28 @@
+{
+  "jeu": "TCG Card Shop Simulator",
+  "sources": [
+    { "titre": "Whisper of the House, guide des succès (en anglais)", "url": "https://www.whisperofthehouse.com/tcg-card-shop-simulator/achievements" },
+    { "titre": "Whisper of the House, duels Tetramon (en anglais)", "url": "https://www.whisperofthehouse.com/tcg-card-shop-simulator/tetramon-duel-master" },
+    { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/3070070/achievements" }
+  ],
+  "note": "Jeu de gestion sans histoire : aucun succès ne se rate pour de bon, mais quatre se ralentissent si on s'y prend mal (caisse à la main, bénéfice du jour, série de notes, duels). Les plus longs : 25 000 packs, 4 000 cartes et 500 cartes Gem Mint.",
+  "sansEtapes": true,
+  "sauvegarde": { "lisible": true, "chemin": "%USERPROFILE%\\AppData\\LocalLow\\OPNeonGames\\Card Shop Simulator\\savedGames_Release0.json", "note": "JSON non chiffré (niveau de boutique dans « m_ShopLevel »). Des mods ajoutent leurs propres fichiers dans le même dossier. Pas encore lue par le traqueur." },
+  "sections": [],
+  "succes": {
+    "ACH_Checkout": { "conseil": "Seuls les clients que tu encaisses toi-même comptent : garde une caisse à faire à la main avant de tout confier aux employés." },
+    "ACH_Profit1": { "conseil": "C'est le bénéfice du rapport de fin de journée (après les dépenses) : évite les gros achats ce jour-là." },
+    "ACH_Profit2": { "conseil": "Voir « Petite marge » : pas de gros achat le jour visé." },
+    "ACH_Profit3": { "conseil": "Voir « Petite marge » : pas de gros achat le jour visé." },
+    "ACH_GradingCollector": { "conseil": "Une carte de chaque note de 1 à 10 en même temps : ne revends pas les cartes mal notées avant d'avoir la série." },
+    "ACH_GradingGem1": { "conseil": "La notation prend plusieurs jours de jeu : envoie des cartes tôt et souvent. Les 10 obtenues comptent même revendues." },
+    "ACH_GradingGem2": { "conseil": "Voir « Rang novice » : envois réguliers dès le début." },
+    "ACH_GradingGem3": { "conseil": "Voir « Rang novice » : envois réguliers dès le début." },
+    "ACH_GradingGold": { "conseil": "Une carte de grande valeur notée 10, en fin de partie.", "aConfirmer": true },
+    "ACH_TCGDuel": { "conseil": "Tu dois jouer et gagner toi-même 50 duels contre des clients ; les parties entre clients ne comptent pas. Monte un deck valide de 50 cartes d'abord." },
+    "ACH_GhostFoil": { "conseil": "Pur hasard à l'ouverture des packs : ça vient avec le farm de packs." },
+    "ACH_BorderlessFullArtFoil": { "conseil": "Il faut d'abord la licence des packs Ascension, puis beaucoup d'ouvertures." },
+    "ACH_UnlockAscensionPack": { "conseil": "Licence de toute fin de progression de la boutique.", "aConfirmer": true },
+    "ACH_ShopExpansion3": { "conseil": "Agrandis au fil des besoins : les 20 extensions viennent en fin de partie." }
+  }
+}
