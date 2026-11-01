@@ -69,11 +69,81 @@
    ]
   },
   {
+   "id": "iso-nightshade-mw4",
+   "nom": "ISO NIGHTSHADE",
+   "cat": "SMG",
+   "tier": "META",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "XRK HERDER 40",
+       "niv": 16
+      },
+      {
+       "slot": "barrel",
+       "nom": "ZLR CARBON-900",
+       "niv": 35
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS TAC90 GRIP",
+       "niv": 48
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "DEMO STP-1",
+       "niv": 6
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 39
+      }
+     ]
+    },
+    {
+     "style": "LOW_LEVEL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS CRACKDOWN",
+       "niv": 4
+      },
+      {
+       "slot": "barrel",
+       "nom": "ZLR MAG-Z 9\"",
+       "niv": 2
+      },
+      {
+       "slot": "ammunition",
+       "nom": "9MM PARABELLUM FRANGIBLE",
+       "niv": 8
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "DEMO STP-1",
+       "niv": 6
+      },
+      {
+       "slot": "stock",
+       "nom": "GI-80 MILSPEC STOCK",
+       "niv": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "vel-46-mw4",
    "nom": "VEL 46",
    "cat": "SMG",
    "tier": "META",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
    "builds": [
     {
@@ -140,70 +210,41 @@
    ]
   },
   {
-   "id": "iso-nightshade-mw4",
-   "nom": "ISO NIGHTSHADE",
-   "cat": "SMG",
+   "id": "hyeon-burst-mw4",
+   "nom": "HYEON BURST",
+   "cat": "ASSAULT_RIFLE",
    "tier": "META",
-   "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
+   "rang": 4,
+   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
    "builds": [
     {
-     "style": "VERSATILE",
+     "style": "APEX",
+     "apex": "HYEON HYPERBURST",
      "acc": [
       {
+       "slot": "optic",
+       "nom": "IOTA-D",
+       "niv": 33
+      },
+      {
        "slot": "muzzle",
-       "nom": "XRK HERDER 40",
-       "niv": 16
+       "nom": "FSS IS300",
+       "niv": 63
       },
       {
        "slot": "barrel",
-       "nom": "ZLR CARBON-900",
-       "niv": 35
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
       },
       {
        "slot": "underbarrel",
        "nom": "FSS TAC90 GRIP",
-       "niv": 48
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "DEMO STP-1",
-       "niv": 6
+       "niv": 39
       },
       {
        "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 39
-      }
-     ]
-    },
-    {
-     "style": "LOW_LEVEL",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "FSS CRACKDOWN",
+       "nom": "SZ GEN.6 PEQ",
        "niv": 4
-      },
-      {
-       "slot": "barrel",
-       "nom": "ZLR MAG-Z 9\"",
-       "niv": 2
-      },
-      {
-       "slot": "ammunition",
-       "nom": "9MM PARABELLUM FRANGIBLE",
-       "niv": 8
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "DEMO STP-1",
-       "niv": 6
-      },
-      {
-       "slot": "stock",
-       "nom": "GI-80 MILSPEC STOCK",
-       "niv": 15
       }
      ]
     }
@@ -214,7 +255,7 @@
    "nom": "M4",
    "cat": "ASSAULT_RIFLE",
    "tier": "META",
-   "rang": 4,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/m4-mw4",
    "builds": [
     {
@@ -315,7 +356,7 @@
    "nom": "MOSIN-NAGANT",
    "cat": "MARKSMAN_RIFLE",
    "tier": "META",
-   "rang": 5,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
    "builds": [
     {
@@ -431,52 +472,11 @@
    ]
   },
   {
-   "id": "hyeon-burst-mw4",
-   "nom": "HYEON BURST",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "A",
-   "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
-   "builds": [
-    {
-     "style": "APEX",
-     "apex": "HYEON HYPERBURST",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "IOTA-D",
-       "niv": 33
-      },
-      {
-       "slot": "muzzle",
-       "nom": "FSS IS300",
-       "niv": 63
-      },
-      {
-       "slot": "barrel",
-       "nom": "MUGI INGOEM 558.8MM",
-       "niv": 46
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 39
-      },
-      {
-       "slot": "laser",
-       "nom": "SZ GEN.6 PEQ",
-       "niv": 4
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "oden-mw4",
    "nom": "ODEN",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 4,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
    "builds": [
     {
@@ -542,7 +542,7 @@
    "nom": "PPSH-41",
    "cat": "SMG",
    "tier": "A",
-   "rang": 5,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/ppsh-41-mw4",
    "builds": [
     {
@@ -612,7 +612,7 @@
    "nom": "X-58 NYX",
    "cat": "SMG",
    "tier": "A",
-   "rang": 6,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/x-58-nyx-mw4",
    "builds": [
     {
@@ -652,7 +652,7 @@
    "nom": "WZ.55 STRIGA",
    "cat": "SMG",
    "tier": "A",
-   "rang": 7,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
    "builds": [
     {
@@ -723,7 +723,7 @@
    "nom": "HAN 86",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 8,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/han-86-mw4",
    "builds": [
     {
@@ -793,7 +793,7 @@
    "nom": "KG-7 VULCAN",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 9,
+   "rang": 8,
    "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
    "builds": [
     {
@@ -853,7 +853,7 @@
    "nom": "REZI 12",
    "cat": "SHOTGUN",
    "tier": "A",
-   "rang": 10,
+   "rang": 9,
    "lien": "https://wzstats.gg/fr/best-loadouts/rezi-12-mw4",
    "builds": [
     {
@@ -903,7 +903,7 @@
    "nom": "ORIS 8.6",
    "cat": "MARKSMAN_RIFLE",
    "tier": "A",
-   "rang": 11,
+   "rang": 10,
    "lien": "https://wzstats.gg/fr/best-loadouts/oris-86-mw4",
    "builds": [
     {
@@ -969,7 +969,7 @@
    "nom": "ASTAROTH .57",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 12,
+   "rang": 11,
    "lien": "https://wzstats.gg/fr/best-loadouts/astaroth-57-mw4",
    "builds": [
     {
