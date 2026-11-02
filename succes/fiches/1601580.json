@@ -5,6 +5,7 @@
     { "titre": "Game8, chapitres de l'histoire (en anglais)", "url": "https://game8.co/games/Frostpunk-2/archives/473351" },
     { "titre": "Selphie1999Gaming, chapitre 3 (en anglais)", "url": "https://selphie1999gaming.com/game-guides/frostpunk-2/frostpunk-2-chapter-3-walkthrough/" },
     { "titre": "TrueAchievements, Colon (en anglais)", "url": "https://i2.trueachievements.com/a447318/settler-achievement" },
+    { "titre": "Gamepressure, liste des chapitres (en anglais)", "url": "https://www.gamepressure.com/frostpunk-2/all-chapters/ze115eb" },
     { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/1601580/achievements" }
   ],
   "note": "Histoire en un prologue et cinq chapitres, sans sélection de chapitre : garde une sauvegarde avant chaque grand choix (fin du chapitre 3, début du chapitre 5). Plusieurs parties sont nécessaires (difficultés Gouverneur et Capitaine, mode Bâtisseur d'Utopie, scénario « Breach of Trust »).",
@@ -13,7 +14,7 @@
     { "id": "prologue", "nom": "Prologue" },
     { "id": "ch1", "nom": "Chapitre 1", "atteinte": ["Beginning", "NoEvil"] },
     { "id": "ch2", "nom": "Chapitre 2" },
-    { "id": "ch3", "nom": "Chapitre 3" },
+    { "id": "ch3", "nom": "Chapitre 3", "motsCles": ["Winterhome"] },
     { "id": "ch4", "nom": "Chapitre 4" },
     { "id": "ch5", "nom": "Chapitre 5" },
     { "id": "fin", "nom": "Après l'histoire", "atteinte": ["NLStory", "NLChallenge", "NLLegacy"] }

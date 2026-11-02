@@ -3,6 +3,8 @@
   "sources": [
     { "titre": "TrueAchievements, succès des 1 000 rondins (en anglais)", "url": "https://www.trueachievements.com/a390246/lumberjacked-achievement" },
     { "titre": "TrueAchievements, succès de la quête principale (en anglais)", "url": "https://www.trueachievements.com/a340428/closure-achievement" },
+    { "titre": "TechRaptor, quêtes d'Uniegost (en anglais)", "url": "https://techraptor.net/gaming/guides/medieval-dynasty-uniegost-quest-guide" },
+    { "titre": "RaiderKing, quête des 1 000 rondins de Wolrad (en anglais)", "url": "https://raiderking.com/medieval-dynasty-wolrads-1000-logs-quest/" },
     { "titre": "Succès sur Steam", "url": "https://steamcommunity.com/stats/1129580/achievements" }
   ],
   "note": "Jeu de survie et de gestion sans étapes nettes. Plusieurs succès comptent « au cours d'une seule dynastie » : ils repartent à zéro avec une nouvelle partie. La quête principale ne se fait qu'en solo.",
@@ -10,8 +12,8 @@
   "sauvegarde": { "lisible": true, "chemin": "%LOCALAPPDATA%\\Medieval_Dynasty\\Saved\\SaveGames", "note": "Fichiers .sav au format Unreal Engine (GVAS), structure documentée et non chiffrée. Pas encore lue par le traqueur." },
   "sections": [],
   "succes": {
-    "ACH_MD_MISSIONIMPROBABLE": { "conseil": "Pendant la quête principale, quand on te demande 1 000 rondins : ne reparle pas à ce personnage avant de les avoir, sinon la demande est abandonnée. Fais-les couper par tes villageois et sauvegarde avant de rendre la quête." },
-    "ACH_MD_MAINQUEST": { "conseil": "Toute la quête principale, en solo seulement (pas en coop)." },
+    "ACH_MD_MISSIONIMPROBABLE": { "motsCles": ["Wolrad"], "conseil": "Pendant la quête principale, quand on te demande 1 000 rondins : ne reparle pas à ce personnage avant de les avoir, sinon la demande est abandonnée. Fais-les couper par tes villageois et sauvegarde avant de rendre la quête." },
+    "ACH_MD_MAINQUEST": { "motsCles": ["Uniegost"], "conseil": "Toute la quête principale, en solo seulement (pas en coop)." },
     "ACH_MD_DYNASTYCONT": { "conseil": "Il faut un héritier en âge de prendre la relève : marie-toi et aie un enfant tôt.", "aConfirmer": true },
     "ACH_MD_GIFTS": { "conseil": "Offre régulièrement des cadeaux à ton épouse pendant deux années de jeu sans interruption.", "aConfirmer": true },
     "ACH_MD_REST": { "conseil": "Une année entière sans dormir ailleurs que dans ton lit : une seule nuit ratée remet le compte à zéro.", "aConfirmer": true },
