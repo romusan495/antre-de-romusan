@@ -1,6 +1,6 @@
 {
  "source": "https://wzstats.gg/fr/mw4/meta",
- "maj": "2026-10-29",
+ "maj": "2026-11-04",
  "armes": [
   {
    "id": "axion-mw4",
@@ -10,6 +10,36 @@
    "rang": 1,
    "lien": "https://wzstats.gg/fr/best-loadouts/axion-mw4",
    "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS IS300",
+       "niv": 28
+      },
+      {
+       "slot": "barrel",
+       "nom": "SA DMN-L 30\"",
+       "niv": 6
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 7
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE GS50",
+       "niv": 55
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 9
+      }
+     ]
+    },
     {
      "style": "APEX",
      "apex": "AXION REAVER",
@@ -26,43 +56,144 @@
       },
       {
        "slot": "magazine",
-       "nom": "TAMBOUR DE 100 CARTOUCHES",
+       "nom": "CHARGEUR À TAMBOUR DE 100 CARTOUCHES",
        "niv": 38
       },
       {
        "slot": "ammunition",
-       "nom": ".300 BLK FRANGIBLE",
+       "nom": "MUNITIONS DÉCHIRANTES .300 BLK",
        "niv": 48
       }
      ]
     },
     {
-     "style": "VERSATILE",
+     "style": "MOBILITY",
      "acc": [
       {
        "slot": "muzzle",
-       "nom": "FSS IS300",
-       "niv": 28
+       "nom": "FSS IS40",
+       "niv": 56
       },
       {
        "slot": "barrel",
-       "nom": "SA DMN-L 30\"",
-       "niv": 6
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 7
+       "nom": "XRK 09-RTAC PRO",
+       "niv": 52
       },
       {
        "slot": "rearGrip",
-       "nom": "GS50 GRIP",
+       "nom": "POIGNÉE GS50",
        "niv": 55
+      },
+      {
+       "slot": "stock",
+       "nom": "XRK RELAY 7",
+       "niv": 59
       },
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
        "niv": 9
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SZ PRIMA-4 POINT ROUGE",
+       "niv": 35
+      },
+      {
+       "slot": "muzzle",
+       "nom": "CORVUS LVL-40",
+       "niv": 63
+      },
+      {
+       "slot": "barrel",
+       "nom": "CRONEN DC-FORGE 40",
+       "niv": 40
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 7
+      },
+      {
+       "slot": "stock",
+       "nom": "CRONEN BLACKSTONE-6P",
+       "niv": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hyeon-burst-mw4",
+   "nom": "HYEON BURST",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "META",
+   "rang": 2,
+   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
+   "builds": [
+    {
+     "style": "APEX",
+     "apex": "HYEON HYPER RAFALE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS IS40",
+       "niv": 20
+      },
+      {
+       "slot": "barrel",
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 41
+      },
+      {
+       "slot": "stock",
+       "nom": "SABOT DE CROSSE HVY-80",
+       "niv": 5
+      },
+      {
+       "slot": "laser",
+       "nom": "SZ GEN.6 PEQ",
+       "niv": 4
+      }
+     ]
+    },
+    {
+     "style": "BURST",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "ZLR REVERB90",
+       "niv": 19
+      },
+      {
+       "slot": "barrel",
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 41
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "HYN-MEIPEUL",
+       "niv": 8
+      },
+      {
+       "slot": "laser",
+       "nom": "SA LAZ-500",
+       "niv": 51
       }
      ]
     }
@@ -73,7 +204,7 @@
    "nom": "ISO NIGHTSHADE",
    "cat": "SMG",
    "tier": "META",
-   "rang": 2,
+   "rang": 3,
    "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
    "builds": [
     {
@@ -82,17 +213,17 @@
       {
        "slot": "muzzle",
        "nom": "XRK HERDER 40",
-       "niv": 16
+       "niv": 17
       },
       {
        "slot": "barrel",
        "nom": "ZLR CARBON-900",
-       "niv": 35
+       "niv": 41
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 48
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 55
       },
       {
        "slot": "rearGrip",
@@ -102,7 +233,7 @@
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
-       "niv": 39
+       "niv": 43
       }
      ]
     },
@@ -121,7 +252,7 @@
       },
       {
        "slot": "ammunition",
-       "nom": "9MM PARABELLUM FRANGIBLE",
+       "nom": "MUNITIONS DÉCHIRANTES 9 MM PARABELLUM",
        "niv": 8
       },
       {
@@ -131,8 +262,68 @@
       },
       {
        "slot": "stock",
-       "nom": "GI-80 MILSPEC STOCK",
+       "nom": "CROSSE GI-80 MILSPEC",
+       "niv": 16
+      }
+     ]
+    },
+    {
+     "style": "MOBILITY",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "DEMO IRONSHADE",
+       "niv": 40
+      },
+      {
+       "slot": "barrel",
+       "nom": "RT OUTRIDE-X 8\"",
+       "niv": 22
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "DEMO STP-1",
+       "niv": 6
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE EXP G2-44",
+       "niv": 5
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 43
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "COMPENSATEUR 212 LC40",
        "niv": 15
+      },
+      {
+       "slot": "barrel",
+       "nom": "ZLR CARBON-900",
+       "niv": 41
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 23
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "BRUEN MOD3",
+       "niv": 35
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE GI-80 MILSPEC",
+       "niv": 16
       }
      ]
     }
@@ -143,7 +334,7 @@
    "nom": "VEL 46",
    "cat": "SMG",
    "tier": "META",
-   "rang": 3,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/vel-46-mw4",
    "builds": [
     {
@@ -161,28 +352,28 @@
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
+       "nom": "POIGNÉE FSS FIRELINE",
        "niv": 10
       },
       {
        "slot": "stock",
-       "nom": "VEL 46 EXTENDED",
+       "nom": "VEL 46 ÉTENDUE",
        "niv": 20
       },
       {
        "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
+       "nom": "Schlager Visiv-5",
        "niv": 0
       }
      ]
     },
     {
      "style": "APEX",
-     "apex": "VEL 46 SNAP",
+     "apex": "VEL 46 RÉACTIVITÉ",
      "acc": [
       {
        "slot": "muzzle",
-       "nom": "212 LC40 COMP",
+       "nom": "COMPENSATEUR 212 LC40",
        "niv": 27
       },
       {
@@ -192,59 +383,78 @@
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
+       "nom": "POIGNÉE FSS FIRELINE",
        "niv": 10
       },
       {
        "slot": "rearGrip",
-       "nom": "LM COMBAT GRIP",
+       "nom": "POIGNÉE DE COMBAT LM",
        "niv": 40
       },
       {
        "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
+       "nom": "Schlager Visiv-5",
        "niv": 0
       }
      ]
-    }
-   ]
-  },
-  {
-   "id": "hyeon-burst-mw4",
-   "nom": "HYEON BURST",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "META",
-   "rang": 4,
-   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
-   "builds": [
+    },
     {
-     "style": "APEX",
-     "apex": "HYEON HYPERBURST",
+     "style": "MOBILITY",
      "acc": [
       {
-       "slot": "optic",
-       "nom": "IOTA-D",
-       "niv": 33
-      },
-      {
        "slot": "muzzle",
-       "nom": "FSS IS300",
-       "niv": 63
+       "nom": "COMPENSATEUR 212 LC40",
+       "niv": 27
       },
       {
        "slot": "barrel",
-       "nom": "MUGI INGOEM 558.8MM",
-       "niv": 46
+       "nom": "CANON RV-B V2",
+       "niv": 45
       },
       {
-       "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 39
+       "slot": "rearGrip",
+       "nom": "POIGNÉE DE COMBAT LM",
+       "niv": 40
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE EXP U-TURN",
+       "niv": 37
       },
       {
        "slot": "laser",
-       "nom": "SZ GEN.6 PEQ",
-       "niv": 4
+       "nom": "Schlager Visiv-5",
+       "niv": 0
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "COMPENSATEUR 212 LC40",
+       "niv": 27
+      },
+      {
+       "slot": "barrel",
+       "nom": "CANON XRK TANGO 380",
+       "niv": 25
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 10
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE V46 R-SKEL",
+       "niv": 9
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE EXP LOCKDOWN",
+       "niv": 15
       }
      ]
     }
@@ -265,7 +475,7 @@
       {
        "slot": "optic",
        "nom": "IOTA-D",
-       "niv": 63
+       "niv": 66
       },
       {
        "slot": "muzzle",
@@ -274,13 +484,13 @@
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 37
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 38
       },
       {
        "slot": "stock",
        "nom": "Hurricane Stock",
-       "niv": 68
+       "niv": 72
       },
       {
        "slot": "laser",
@@ -299,18 +509,18 @@
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 37
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 38
       },
       {
        "slot": "rearGrip",
-       "nom": "ZLR PHASE GRIP",
-       "niv": 52
+       "nom": "POIGNÉE ZLR PHASE",
+       "niv": 55
       },
       {
        "slot": "stock",
-       "nom": "ZLR ASP50 STOCK",
-       "niv": 42
+       "nom": "CROSSE ZLR ASP50",
+       "niv": 44
       },
       {
        "slot": "laser",
@@ -334,18 +544,78 @@
       },
       {
        "slot": "ammunition",
-       "nom": "MUNITIONS HAUTE PRESSION 5,5",
+       "nom": "MUNITIONS HAUTE PRESSION 5,56 OTAN",
        "niv": 3
       },
       {
        "slot": "stock",
-       "nom": "PF1 FIXED STOCK",
+       "nom": "CROSSE FIXE PF1",
        "niv": 14
       },
       {
        "slot": "laser",
        "nom": "SZ GEN.6 PEQ",
        "niv": 2
+      }
+     ]
+    },
+    {
+     "style": "MOBILITY",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "CORVUS LVL-40",
+       "niv": 53
+      },
+      {
+       "slot": "barrel",
+       "nom": "FT CANNONADE 7\"",
+       "niv": 7
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE ZLR PHASE",
+       "niv": 55
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE ZLR ASP50",
+       "niv": 44
+      },
+      {
+       "slot": "laser",
+       "nom": "SZ GEN.6 PEQ",
+       "niv": 2
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "CORVUS LVL-40",
+       "niv": 53
+      },
+      {
+       "slot": "barrel",
+       "nom": "16\" HIGHMARK BARREL",
+       "niv": 18
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 38
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE BRACE DX",
+       "niv": 10
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE FIXE PF1",
+       "niv": 14
       }
      ]
     }
@@ -365,27 +635,22 @@
       {
        "slot": "optic",
        "nom": "CRONEN R808",
-       "niv": 0
+       "niv": 9
       },
       {
        "slot": "muzzle",
        "nom": "DS RKT-90",
-       "niv": 0
+       "niv": 22
       },
       {
        "slot": "barrel",
-       "nom": "762 DOZOR BARREL",
-       "niv": 0
+       "nom": "CANON 762 DOZOR",
+       "niv": 41
       },
       {
        "slot": "stock",
-       "nom": "LOCKWOOD EAGLE STOCK",
-       "niv": 0
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 0
+       "nom": "CROSSE LOCKWOOD EAGLE",
+       "niv": 27
       }
      ]
     }
@@ -401,6 +666,37 @@
    "builds": [
     {
      "style": "VERSATILE",
+     "apex": "KASTOV ARC",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "IVANOV QR600",
+       "niv": 65
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 3
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE TECHNIQUE HANBIT",
+       "niv": 4
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE SPETSNAZ S10",
+       "niv": 19
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 30
+      }
+     ]
+    },
+    {
+     "style": "MOBILITY",
      "acc": [
       {
        "slot": "optic",
@@ -408,14 +704,14 @@
        "niv": 35
       },
       {
-       "slot": "barrel",
-       "nom": "FJX GHOSTFIRE 16.3\"",
-       "niv": 61
+       "slot": "muzzle",
+       "nom": "FT HYPERPORT 408",
+       "niv": 16
       },
       {
-       "slot": "underbarrel",
-       "nom": "FSS TAC90 GRIP",
-       "niv": 47
+       "slot": "barrel",
+       "nom": "TT 414-R HIGHTAC",
+       "niv": 2
       },
       {
        "slot": "stock",
@@ -428,43 +724,103 @@
        "niv": 30
       }
      ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "CRONEN ZERO-K",
+       "niv": 35
+      },
+      {
+       "slot": "muzzle",
+       "nom": "FT HYPERPORT 408",
+       "niv": 16
+      },
+      {
+       "slot": "barrel",
+       "nom": "HAEBANG MT-414 MM",
+       "niv": 14
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 3
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE SPETSNAZ S10",
+       "niv": 19
+      }
+     ]
     }
    ]
   },
   {
-   "id": "partriot-xmr-mw4",
-   "nom": "PARTRIOT XMR",
+   "id": "patriot-xmr-mw4",
+   "nom": "PATRIOT XMR",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
    "rang": 2,
-   "lien": "https://wzstats.gg/fr/best-loadouts/partriot-xmr-mw4",
+   "lien": "https://wzstats.gg/fr/best-loadouts/patriot-xmr-mw4",
    "builds": [
     {
      "style": "VERSATILE",
      "acc": [
       {
-       "slot": "optic",
-       "nom": "FJX 708 PRO",
-       "niv": 0
-      },
-      {
        "slot": "muzzle",
-       "nom": "EXP UNDERTOW GEN. 2",
-       "niv": 0
+       "nom": "MEIKO 30CAL-SP",
+       "niv": 62
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 0
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 33
       },
       {
        "slot": "rearGrip",
-       "nom": "SCHLAGER ATTACK-7 GRIP",
+       "nom": "POIGNÉE SCHLAGER ATTACK-7",
        "niv": 28
+      },
+      {
+       "slot": "stock",
+       "nom": "HANBIT B56T-L9",
+       "niv": 22
       },
       {
        "slot": "laser",
        "nom": "SA LAZ-500",
+       "niv": 12
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "COMPENSATEUR HET-S6",
+       "niv": 14
+      },
+      {
+       "slot": "barrel",
+       "nom": "SO 898F 19\"",
+       "niv": 60
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 33
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE SCHLAGER ATTACK-7",
+       "niv": 28
+      },
+      {
+       "slot": "laser",
+       "nom": "SZ GEN.6 PEQ",
        "niv": 0
       }
      ]
@@ -485,53 +841,83 @@
       {
        "slot": "optic",
        "nom": "SLIMLINE ELITE",
-       "niv": 0
+       "niv": 13
       },
       {
        "slot": "muzzle",
        "nom": "BRYSON BULLHIDE 90",
-       "niv": 0
+       "niv": 37
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS FIRELINE GRIP",
-       "niv": 0
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 22
       },
       {
        "slot": "stock",
        "nom": "HAEBANG STAL-W5",
-       "niv": 0
+       "niv": 3
       },
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
-       "niv": 0
+       "niv": 6
       }
      ]
     },
     {
      "style": "APEX",
-     "apex": "ODEN SENTINEL",
+     "apex": "ODEN SENTINELLE",
      "acc": [
       {
        "slot": "optic",
        "nom": "SZ SRE-7",
-       "niv": 0
+       "niv": 51
       },
       {
        "slot": "ammunition",
-       "nom": "12.7X55MM HIGH VELOCITY",
-       "niv": 0
+       "nom": "MUNITIONS HAUTE VITESSE 12,7 X 55 MM",
+       "niv": 61
       },
       {
        "slot": "stock",
-       "nom": "VLK NVS-32 PAD",
-       "niv": 0
+       "nom": "SABOT VLK NVS-32",
+       "niv": 36
       },
       {
        "slot": "laser",
        "nom": "XRK CLUTCH-LS",
-       "niv": 0
+       "niv": 47
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "SLIMLINE ELITE",
+       "niv": 13
+      },
+      {
+       "slot": "muzzle",
+       "nom": "BRYSON BULLHIDE 90",
+       "niv": 37
+      },
+      {
+       "slot": "barrel",
+       "nom": "CANON ROCKFALL-900",
+       "niv": 5
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 22
+      },
+      {
+       "slot": "stock",
+       "nom": "HAEBANG STAL-W5",
+       "niv": 3
       }
      ]
     }
@@ -546,26 +932,86 @@
    "lien": "https://wzstats.gg/fr/best-loadouts/ppsh-41-mw4",
    "builds": [
     {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "barrel",
+       "nom": "HANBIT CHIMMUK-INTR",
+       "niv": 5
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 2
+      },
+      {
+       "slot": "magazine",
+       "nom": "CHARGEUR DE 53 CARTOUCHES",
+       "niv": 3
+      },
+      {
+       "slot": "stock",
+       "nom": "HANBIT JANGUN-H9",
+       "niv": 25
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 4
+      }
+     ]
+    },
+    {
+     "style": "LOW_RECOIL",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "DOUBLE ÉVENT 1/2X28",
+       "niv": 29
+      },
+      {
+       "slot": "barrel",
+       "nom": "HANBIT RDR-TIGER 50",
+       "niv": 33
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS FIRELINE",
+       "niv": 61
+      },
+      {
+       "slot": "stock",
+       "nom": "HANBIT JANGUN-H9",
+       "niv": 25
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 4
+      }
+     ]
+    },
+    {
      "style": "LOW_LEVEL",
      "acc": [
       {
        "slot": "muzzle",
        "nom": "FTAC SILENT RECON",
-       "niv": 11
+       "niv": 12
       },
       {
        "slot": "barrel",
        "nom": "HANBIT RDR-TIGER 50-XL",
-       "niv": 14
+       "niv": 15
       },
       {
        "slot": "magazine",
-       "nom": "53 ROUND MAG",
+       "nom": "CHARGEUR DE 53 CARTOUCHES",
        "niv": 3
       },
       {
        "slot": "ammunition",
-       "nom": "7.62 TOKAREV OVERPRESSURED",
+       "nom": "MUNITIONS HAUTE PRESSION 7,62 TOKAREV",
        "niv": 9
       },
       {
@@ -576,27 +1022,27 @@
      ]
     },
     {
-     "style": "VERSATILE",
+     "style": "MOBILITY",
      "acc": [
       {
        "slot": "muzzle",
-       "nom": "FTAC SILENT RECON",
-       "niv": 11
+       "nom": "DOUBLE ÉVENT 1/2X28",
+       "niv": 29
       },
       {
-       "slot": "barrel",
-       "nom": "HANBIT RDR-TIGER 50-XL",
-       "niv": 14
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 2
       },
       {
        "slot": "magazine",
-       "nom": "53 ROUND MAG",
+       "nom": "CHARGEUR DE 53 CARTOUCHES",
        "niv": 3
       },
       {
-       "slot": "ammunition",
-       "nom": "7.62 TOKAREV FRANGIBLE",
-       "niv": 26
+       "slot": "stock",
+       "nom": "MT-L5 JINHUA",
+       "niv": 41
       },
       {
        "slot": "laser",
@@ -620,23 +1066,53 @@
      "acc": [
       {
        "slot": "barrel",
-       "nom": "LX3-V 408.94MM",
-       "niv": 39
+       "nom": "DOKSA 4F 304.8MM",
+       "niv": 37
       },
       {
        "slot": "underbarrel",
-       "nom": "MIRE-50 TAC GRIP",
-       "niv": 7
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 39
       },
       {
        "slot": "rearGrip",
        "nom": "BOK-980",
-       "niv": 18
+       "niv": 20
       },
       {
        "slot": "stock",
-       "nom": "MUGI HUL-73.M STOCK",
+       "nom": "CROSSE MUGI HUL-73.M",
        "niv": 3
+      },
+      {
+       "slot": "laser",
+       "nom": "XRK CLUTCH-LS",
+       "niv": 38
+      }
+     ]
+    },
+    {
+     "style": "MOBILITY",
+     "acc": [
+      {
+       "slot": "barrel",
+       "nom": "DOKSA 4F 304.8MM",
+       "niv": 37
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 39
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "BOK-980",
+       "niv": 20
+      },
+      {
+       "slot": "stock",
+       "nom": "No Stock",
+       "niv": 0
       },
       {
        "slot": "laser",
@@ -657,32 +1133,32 @@
    "builds": [
     {
      "style": "APEX",
-     "apex": "WZ.55 STRIGA RAMPAGE",
+     "apex": "WZ.55 STRIGA CARNAGE",
      "acc": [
       {
        "slot": "muzzle",
        "nom": "FTAC SILENT RECON",
-       "niv": 0
+       "niv": 13
       },
       {
        "slot": "barrel",
        "nom": "GW SENDER 500",
-       "niv": 0
+       "niv": 5
       },
       {
        "slot": "magazine",
-       "nom": "35 ROUND MAG",
-       "niv": 0
+       "nom": "CHARGEUR DE 35 CARTOUCHES",
+       "niv": 10
       },
       {
        "slot": "rearGrip",
        "nom": "FTAC GUARDS",
-       "niv": 0
+       "niv": 34
       },
       {
        "slot": "laser",
        "nom": "SCHLAGER VISIV-5",
-       "niv": 0
+       "niv": 32
       }
      ]
     },
@@ -691,28 +1167,58 @@
      "acc": [
       {
        "slot": "optic",
-       "nom": "SZ PRIMA-4 DOT",
-       "niv": 0
+       "nom": "SZ PRIMA-4 POINT ROUGE",
+       "niv": 59
       },
       {
        "slot": "muzzle",
        "nom": "FTAC SILENT RECON",
+       "niv": 13
+      },
+      {
+       "slot": "barrel",
+       "nom": "DS 9X18 PRO",
+       "niv": 44
+      },
+      {
+       "slot": "magazine",
+       "nom": "CHARGEUR DE 35 CARTOUCHES",
+       "niv": 10
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE WIRE",
+       "niv": 52
+      }
+     ]
+    },
+    {
+     "style": "MOBILITY",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "DOUBLE ÉVENT 1/2X28",
        "niv": 0
       },
       {
        "slot": "barrel",
        "nom": "DS 9X18 PRO",
-       "niv": 0
+       "niv": 44
       },
       {
        "slot": "magazine",
-       "nom": "35 ROUND MAG",
-       "niv": 0
+       "nom": "CHARGEUR DE 35 CARTOUCHES",
+       "niv": 10
       },
       {
-       "slot": "stock",
-       "nom": "WIRE STOCK",
-       "niv": 0
+       "slot": "rearGrip",
+       "nom": "POIGNÉE MATUZEK 532-L",
+       "niv": 15
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 32
       }
      ]
     }
