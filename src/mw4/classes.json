@@ -657,6 +657,61 @@
    ]
   },
   {
+   "id": "kg-7-vulcan-mw4",
+   "nom": "KG-7 VULCAN",
+   "cat": "SNIPER_RIFLE",
+   "tier": "META",
+   "rang": 7,
+   "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
+   "builds": [
+    {
+     "style": "LONG_RANGE",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "CRONEN R808",
+       "niv": 3
+      },
+      {
+       "slot": "muzzle",
+       "nom": "IVANOV QR600",
+       "niv": 64
+      },
+      {
+       "slot": "barrel",
+       "nom": "TT BAEM 12\"",
+       "niv": 5
+      }
+     ]
+    },
+    {
+     "style": "LOW_LEVEL",
+     "acc": [
+      {
+       "slot": "optic",
+       "nom": "HANBIT 3080 FIRELINE",
+       "niv": 14
+      },
+      {
+       "slot": "muzzle",
+       "nom": "DS RKT-90",
+       "niv": 4
+      },
+      {
+       "slot": "barrel",
+       "nom": "TT BAEM 12\"",
+       "niv": 5
+      },
+      {
+       "slot": "laser",
+       "nom": "SCHLAGER VISIV-5",
+       "niv": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "kastov-762-mw4",
    "nom": "KASTOV 762",
    "cat": "ASSAULT_RIFLE",
@@ -1295,71 +1350,11 @@
    ]
   },
   {
-   "id": "kg-7-vulcan-mw4",
-   "nom": "KG-7 VULCAN",
-   "cat": "SNIPER_RIFLE",
-   "tier": "A",
-   "rang": 8,
-   "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
-   "builds": [
-    {
-     "style": "LOW_LEVEL",
-     "acc": [
-      {
-       "slot": "optic",
-       "nom": "HANBIT 3080 FIRELINE",
-       "niv": 13
-      },
-      {
-       "slot": "muzzle",
-       "nom": "DS RKT-90",
-       "niv": 4
-      },
-      {
-       "slot": "barrel",
-       "nom": "TT BAEM 12\"",
-       "niv": 5
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 7
-      }
-     ]
-    },
-    {
-     "style": "ADS_SPEED",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "IVANOV QR600",
-       "niv": 62
-      },
-      {
-       "slot": "barrel",
-       "nom": "HAEBANG NASEON V.5 26\"",
-       "niv": 21
-      },
-      {
-       "slot": "stock",
-       "nom": "TT G76-RP STOCK",
-       "niv": 46
-      },
-      {
-       "slot": "laser",
-       "nom": "SCHLAGER VISIV-5",
-       "niv": 7
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "rezi-12-mw4",
    "nom": "REZI 12",
    "cat": "SHOTGUN",
    "tier": "A",
-   "rang": 9,
+   "rang": 8,
    "lien": "https://wzstats.gg/fr/best-loadouts/rezi-12-mw4",
    "builds": [
     {
@@ -1409,7 +1404,7 @@
    "nom": "ORIS 8.6",
    "cat": "MARKSMAN_RIFLE",
    "tier": "A",
-   "rang": 10,
+   "rang": 9,
    "lien": "https://wzstats.gg/fr/best-loadouts/oris-86-mw4",
    "builds": [
     {
@@ -1475,7 +1470,7 @@
    "nom": "ASTAROTH .57",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 11,
+   "rang": 10,
    "lien": "https://wzstats.gg/fr/best-loadouts/astaroth-57-mw4",
    "builds": [
     {
