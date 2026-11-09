@@ -3,11 +3,51 @@
  "maj": "2026-11-07",
  "armes": [
   {
+   "id": "cronen-osprey-mw4",
+   "nom": "CRONEN OSPREY",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "META",
+   "rang": 1,
+   "lien": "https://wzstats.gg/fr/best-loadouts/cronen-osprey-mw4",
+   "builds": [
+    {
+     "style": "VERSATILE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "XRK Mil-Tac Suppressor",
+       "niv": 34
+      },
+      {
+       "slot": "barrel",
+       "nom": "IO-556 Tac 18\"",
+       "niv": 54
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "FSS Tac90 Grip",
+       "niv": 6
+      },
+      {
+       "slot": "stock",
+       "nom": "XR-9 Tac V2",
+       "niv": 69
+      },
+      {
+       "slot": "laser",
+       "nom": "SA Laz-500",
+       "niv": 52
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "axion-mw4",
    "nom": "AXION",
    "cat": "ASSAULT_RIFLE",
    "tier": "META",
-   "rang": 1,
+   "rang": 2,
    "lien": "https://wzstats.gg/fr/best-loadouts/axion-mw4",
    "builds": [
     {
@@ -129,11 +169,82 @@
    ]
   },
   {
+   "id": "hyeon-burst-mw4",
+   "nom": "HYEON BURST",
+   "cat": "ASSAULT_RIFLE",
+   "tier": "META",
+   "rang": 3,
+   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
+   "builds": [
+    {
+     "style": "APEX",
+     "apex": "HYEON HYPER RAFALE",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "FSS IS40",
+       "niv": 20
+      },
+      {
+       "slot": "barrel",
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 41
+      },
+      {
+       "slot": "stock",
+       "nom": "SABOT DE CROSSE HVY-80",
+       "niv": 5
+      },
+      {
+       "slot": "laser",
+       "nom": "SZ GEN.6 PEQ",
+       "niv": 4
+      }
+     ]
+    },
+    {
+     "style": "BURST",
+     "acc": [
+      {
+       "slot": "muzzle",
+       "nom": "ZLR REVERB90",
+       "niv": 19
+      },
+      {
+       "slot": "barrel",
+       "nom": "MUGI INGOEM 558.8MM",
+       "niv": 46
+      },
+      {
+       "slot": "underbarrel",
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 41
+      },
+      {
+       "slot": "rearGrip",
+       "nom": "HYN-MEIPEUL",
+       "niv": 8
+      },
+      {
+       "slot": "laser",
+       "nom": "SA LAZ-500",
+       "niv": 51
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "iso-nightshade-mw4",
    "nom": "ISO NIGHTSHADE",
    "cat": "SMG",
    "tier": "META",
-   "rang": 2,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/iso-nightshade-mw4",
    "builds": [
     {
@@ -259,51 +370,11 @@
    ]
   },
   {
-   "id": "cronen-osprey-mw4",
-   "nom": "CRONEN OSPREY",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "META",
-   "rang": 3,
-   "lien": "https://wzstats.gg/fr/best-loadouts/cronen-osprey-mw4",
-   "builds": [
-    {
-     "style": "VERSATILE",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "XRK Mil-Tac Suppressor",
-       "niv": 34
-      },
-      {
-       "slot": "barrel",
-       "nom": "IO-556 Tac 18\"",
-       "niv": 54
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "FSS Tac90 Grip",
-       "niv": 6
-      },
-      {
-       "slot": "stock",
-       "nom": "XR-9 Tac V2",
-       "niv": 69
-      },
-      {
-       "slot": "laser",
-       "nom": "SA Laz-500",
-       "niv": 52
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "m4-mw4",
    "nom": "M4",
    "cat": "ASSAULT_RIFLE",
    "tier": "META",
-   "rang": 4,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/m4-mw4",
    "builds": [
     {
@@ -462,9 +533,9 @@
   {
    "id": "mosin-nagant-mw4",
    "nom": "MOSIN-NAGANT",
-   "cat": "SNIPER_RIFLE",
+   "cat": "MARKSMAN_RIFLE",
    "tier": "META",
-   "rang": 5,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/mosin-nagant-mw4",
    "builds": [
     {
@@ -499,7 +570,7 @@
    "nom": "KG-7 VULCAN",
    "cat": "SNIPER_RIFLE",
    "tier": "META",
-   "rang": 6,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/kg-7-vulcan-mw4",
    "builds": [
     {
@@ -852,82 +923,11 @@
    ]
   },
   {
-   "id": "hyeon-burst-mw4",
-   "nom": "HYEON BURST",
-   "cat": "ASSAULT_RIFLE",
-   "tier": "A",
-   "rang": 4,
-   "lien": "https://wzstats.gg/fr/best-loadouts/hyeon-burst-mw4",
-   "builds": [
-    {
-     "style": "APEX",
-     "apex": "HYEON HYPER RAFALE",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "FSS IS40",
-       "niv": 20
-      },
-      {
-       "slot": "barrel",
-       "nom": "MUGI INGOEM 558.8MM",
-       "niv": 46
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "POIGNÉE FSS TAC90",
-       "niv": 41
-      },
-      {
-       "slot": "stock",
-       "nom": "SABOT DE CROSSE HVY-80",
-       "niv": 5
-      },
-      {
-       "slot": "laser",
-       "nom": "SZ GEN.6 PEQ",
-       "niv": 4
-      }
-     ]
-    },
-    {
-     "style": "BURST",
-     "acc": [
-      {
-       "slot": "muzzle",
-       "nom": "ZLR REVERB90",
-       "niv": 19
-      },
-      {
-       "slot": "barrel",
-       "nom": "MUGI INGOEM 558.8MM",
-       "niv": 46
-      },
-      {
-       "slot": "underbarrel",
-       "nom": "POIGNÉE FSS TAC90",
-       "niv": 41
-      },
-      {
-       "slot": "rearGrip",
-       "nom": "HYN-MEIPEUL",
-       "niv": 8
-      },
-      {
-       "slot": "laser",
-       "nom": "SA LAZ-500",
-       "niv": 51
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "csg-35-mw4",
    "nom": "CSG-35",
    "cat": "SMG",
    "tier": "A",
-   "rang": 5,
+   "rang": 4,
    "lien": "https://wzstats.gg/fr/best-loadouts/csg-35-mw4",
    "builds": [
     {
@@ -998,7 +998,7 @@
    "nom": "ODEN",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 6,
+   "rang": 5,
    "lien": "https://wzstats.gg/fr/best-loadouts/oden-mw4",
    "builds": [
     {
@@ -1094,7 +1094,7 @@
    "nom": "PPSH-41",
    "cat": "SMG",
    "tier": "A",
-   "rang": 7,
+   "rang": 6,
    "lien": "https://wzstats.gg/fr/best-loadouts/ppsh-41-mw4",
    "builds": [
     {
@@ -1224,7 +1224,7 @@
    "nom": "X-58 NYX",
    "cat": "SMG",
    "tier": "A",
-   "rang": 8,
+   "rang": 7,
    "lien": "https://wzstats.gg/fr/best-loadouts/x-58-nyx-mw4",
    "builds": [
     {
@@ -1294,7 +1294,7 @@
    "nom": "WZ.55 STRIGA",
    "cat": "SMG",
    "tier": "A",
-   "rang": 9,
+   "rang": 8,
    "lien": "https://wzstats.gg/fr/best-loadouts/wz55-striga-mw4",
    "builds": [
     {
@@ -1395,7 +1395,7 @@
    "nom": "HAN 86",
    "cat": "ASSAULT_RIFLE",
    "tier": "A",
-   "rang": 10,
+   "rang": 9,
    "lien": "https://wzstats.gg/fr/best-loadouts/han-86-mw4",
    "builds": [
     {
@@ -1465,7 +1465,7 @@
    "nom": "REZI 12",
    "cat": "SHOTGUN",
    "tier": "A",
-   "rang": 11,
+   "rang": 10,
    "lien": "https://wzstats.gg/fr/best-loadouts/rezi-12-mw4",
    "builds": [
     {
@@ -1515,7 +1515,7 @@
    "nom": "ORIS 8.6",
    "cat": "MARKSMAN_RIFLE",
    "tier": "A",
-   "rang": 12,
+   "rang": 11,
    "lien": "https://wzstats.gg/fr/best-loadouts/oris-86-mw4",
    "builds": [
     {
@@ -1581,7 +1581,7 @@
    "nom": "ASTAROTH .57",
    "cat": "SNIPER_RIFLE",
    "tier": "A",
-   "rang": 13,
+   "rang": 12,
    "lien": "https://wzstats.gg/fr/best-loadouts/astaroth-57-mw4",
    "builds": [
     {
