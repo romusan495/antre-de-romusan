@@ -1,6 +1,6 @@
 {
  "source": "https://wzstats.gg/fr/mw4/meta",
- "maj": "2026-11-07",
+ "maj": "2026-11-13",
  "armes": [
   {
    "id": "cronen-osprey-mw4",
@@ -15,27 +15,27 @@
      "acc": [
       {
        "slot": "muzzle",
-       "nom": "XRK Mil-Tac Suppressor",
-       "niv": 34
-      },
-      {
-       "slot": "barrel",
-       "nom": "IO-556 Tac 18\"",
-       "niv": 54
+       "nom": "FSS IS300",
+       "niv": 21
       },
       {
        "slot": "underbarrel",
-       "nom": "FSS Tac90 Grip",
+       "nom": "POIGNÉE FSS TAC90",
        "niv": 6
       },
       {
+       "slot": "rearGrip",
+       "nom": "POIGNÉE ROBUSTE A56",
+       "niv": 46
+      },
+      {
        "slot": "stock",
-       "nom": "XR-9 Tac V2",
-       "niv": 69
+       "nom": "FT STALWART MK2",
+       "niv": 50
       },
       {
        "slot": "laser",
-       "nom": "SA Laz-500",
+       "nom": "SA LAZ-500",
        "niv": 52
       }
      ]
@@ -54,24 +54,24 @@
      "style": "VERSATILE",
      "acc": [
       {
-       "slot": "muzzle",
-       "nom": "FSS IS300",
-       "niv": 28
-      },
-      {
        "slot": "barrel",
-       "nom": "SA DMN-L 30\"",
-       "niv": 6
+       "nom": "MATUZEK S5-BRACE",
+       "niv": 29
       },
       {
        "slot": "underbarrel",
-       "nom": "POIGNÉE FSS FIRELINE",
-       "niv": 7
+       "nom": "POIGNÉE FSS TAC90",
+       "niv": 31
       },
       {
        "slot": "rearGrip",
-       "nom": "POIGNÉE GS50",
-       "niv": 55
+       "nom": "POIGNÉE DE VERROUILLAGE MATUZEK",
+       "niv": 23
+      },
+      {
+       "slot": "stock",
+       "nom": "CROSSE TA HARROW",
+       "niv": 2
       },
       {
        "slot": "laser",
@@ -96,7 +96,7 @@
       },
       {
        "slot": "magazine",
-       "nom": "CHARGEUR À TAMBOUR DE 100 CARTOUCHES",
+       "nom": "CHARGEUR À TAMBOUR DE 100 CARTOUCHES",
        "niv": 38
       },
       {
